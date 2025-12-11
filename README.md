@@ -110,8 +110,6 @@ The `evaluate_code/evaluate.ipynb` notebook computes comprehensive performance m
 ### Intermediate Data
 - `cleaned_output/*.csv`: Processed predictions ready for evaluation
   - Format: `y_pred, y_true` columns
-  - ~3,100 test samples for 100k models
-  - ~23 test samples for 80k model variant
 
 ### Processing Scripts
 - **Preprocessing**: Notebooks in `preprocess_output/` clean raw outputs
