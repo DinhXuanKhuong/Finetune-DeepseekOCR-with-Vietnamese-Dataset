@@ -1,0 +1,7173 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Viết tiếp về mùa anh Trương Xuân Đại. Ngày tư khi tổ báo cáo sở phản ứng 
+y_true: Viết tiếp về vụ anh Trương Xuân Đại. Ngay từ khi tờ báo có bài " Số phận của
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+những người mới lên sự thật "phát hành, nhân lập đọc dài bấy bộ sự chia sẻ,
+y_true: những người nói lên sự thật " phát hành, nhiều bạn đọc đã bày tỏ sự chia sẻ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ng họ anh Trường Xuân Đại. Mặt bàn đác 6 tầng và 3.11m2 gửi tới Trường Anh Trường 
+y_true: ủng hộ anh Trương Xuân Đại. Một bạn đọc 67 tuổi ở Q.11 đến gửi tặng anh Trương
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+xuân Đủ 150.000 đồng, mà có gì trên Nhưng ở Tân Bình gửi tổng 100.000,
+y_true: Xuân Đại 150.000 đồng, một cô gái tên Nhung ở Tân Bình gửi tặng 100.000 đ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+một thành niên tại Hai Điện quận 200.000. Sándơ mua là Ngày 
+y_true: một thanh niên tên Hà đến gửi 200.000 đ. Sau đó nữa là rất
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nhiên làm đặc điểm bảy Bộ chính sách, công bố.
+y_true: nhiều bạn đọc gọi đến bày tỏ sự chia sẻ, ủng hộ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Bạn liên lạp báo 'tuan' từ cùng quyên Trinh qua từ nhóm công nhân.
+y_true: Ban biên tập báo Tuổi Trẻ cũng quyết định gửi tặng nhóm công nhân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để tôi có thân cúc ở đây làm công A5 10 năm đây. Đây, để người dân
+y_true: đã tố cáo tiêu cực ở đường liên cảng A5 10 triệu đồng. Đừng để người dân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để cuộc cho mình tình! Câu của bố chỉ, bạn không bị dứt lúc về với tôi có những 
+y_true: đặt cược cho niềm tin! Qua báo chí, bản thân tôi đã được biết về việc tố cáo những
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bài phạm của công trình đường lên cảng A5 mạng lưới đuôi cây, nhưng ngày
+y_true: sai phạm của công rình đường liên cảng A5 mấy năm trước đây, nhưng nay
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+màu biệt "uốc" bốn đứng ở và bất tiếp dần mang cốt báo bị lộng phận phác
+y_true: mới biết việc làm dũng cảm và tốt đẹp đó đã mang đến bao hệ lụy phiền phức
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+họ người hãy mài mình người mẹ "đó bố vợ cùng xây dựng"
+y_true: cho những người trong cuộc, những người mà theo tôi vô cùng xứng đáng với danh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+hình ảnh 
+y_true: hiệu hiệp sĩ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+The chính mình hiện là gì vì sao? Người đó bày thăng lệ phải bày, họ đều
+y_true: Thế nhưng những hiệp sĩ ấy giờ ra sao? Người thì lang thang, phiêu bạt, kẻ thì
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và hò? hết thì cây ấn tình con chàng, đó như tất luôn vẻ chưa, phải là tất công.
+y_true: vợ bỏ, kẻ thì cày ải trên những con đường đô thị để lượm ve chai, phải tá túc trong
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+những cơ hội đòi hỏi bị ngừng ngày. Người có mùa hè nhưng, như 1 dòng lệ phải chạy.
+y_true: những căn chòi tạm bợ sống qua ngày. Ngẫm sao mà thương thế! Đáng lẽ phải được
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tổ như thời là những sự người cũng là bị dày xương dày cũng cầm cố,
+y_true: tôn vinh thì trái lại những con người ấy đã bị đẩy xuống đáy cùng của cuộc
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ông! cùng mấy mình đã đã những hơn, đã chất là mình cũng ủn
+y_true: sống! Cũng may mà anh Đại đã thắng kiện, đó chắc là một niềm an ủi và
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+là những định đề "mình và chúng nguyện, người chưa tin công nơi"
+y_true: là một khẳng định để anh và các đồng nghiệp, người thân tin rằng các
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+anh hữu dân. Tất huy vực là điều gì mình tìm từ là phải mà mình.
+y_true: anh không đơn độc trong việc theo đuổi niềm tin về lẽ phải của mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Lưu mùa, khi thành tác dẫn xác định sự phạm mỹ không xử lý mà đi ngừng
+y_true: Lại nữa, khi thanh tra đã xác định sai phạm sao không xử lý mà để " ngâm "
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+bên ngày cũng 2 năm hằng phải là người này lần lượt nước chuyển mình những
+y_true: lâu ngày đến vậy? Tôi không phải là người trong lĩnh vực chuyên môn nhưng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+có thị hình dựng rộng hình diện bên cây A S chứa nhóm phục vụ hoạt động.
+y_true: có thể hình dung công trình đường liên cảng A5 chắc là nhằm phục vụ hoạt động của
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+sẽ có nhà đầu tư hay khu đại cưng Tôn Thành. Với thứ không khí, phải ngày
+y_true: các nhà đầu tư trong Khu chế xuất Tân Thuận. Vậy thì khi không khắc phục ngay
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+mà con điều ơn đương xem gì như hôm, ở phước gặp khiên luôn.
+y_true: mà còn để con đường xuống cấp thê thảm, có phải là góp thêm phần
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bạn xin đi làm mày đã từ chối Chủ tịch Hồ Hạch 1 mưu cùng
+y_true: làm xấu đi môi trường đầu tư của thành phố hay không, và cũng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tày nghĩa và việc mài đã bảo hiểm và hỗ trợ bởi việc và cả thiện cứu ý.
+y_true: đồng nghĩa với việc mất đi bao nhiêu cơ hội làm việc và cải thiện cuộc sống
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([7, 100, 1280])
+=====================
+của người bảo hiểm - đối tác bị - hạ thẩm.
+y_true: của người lao động - đồng bào - hay không?
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chúng tôi có bên nghĩa với bên thông, chúng tôi có bên lạc của cây nhân
+y_true: Chúng ta " hoan nghênh và biểu dương những việc làm tốt của công nhân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+xây dựng công việc là một trong điểm ảnh sự phạm của công bố tình dựng.
+y_true: xây dựng trong việc thông tin, phản ánh sai phạm của công trình đường
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+hàng công AS 1, mượn chai lò thủng có biết. Chính sách người vẫn làm 
+y_true: liên cảng A5 ", nhưng chắc là không có hình thức hoan nghênh và biểu
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đường chính thứ hai của anh Đàu vẫn mấy dội nghiệp bị xét lý ngày
+y_true: dương nào thiết thực hơn đối với anh Đại và những đồng nghiệp là xử lý ngay
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+không làm phim (đã từ mùa mưa) và 5 kiện pháp luận dự kiến được
+y_true: những sai phạm (đã rõ mười mươi) và có biện pháp hữu hiệu khắc phục
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đường Mãi Linh - có những người gần như là phụ nữ để đưa đến phố,
+y_true: những sai phạm đó. Có như vậy niềm tin vào lẽ phải mới được khôi phục
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cả người đàn về chuyện của đã được cho một lời làm một ng
+y_true: và người dân sẽ không còn phải đặt cược cho niềm tin của mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Phần kế mại của Chuyển thông không 1 năm cũng đã làm chuyển dựng của ý tụy.
+y_true: Phải là một câu chuyện đàng hoàng! Nhóm công nhân dũng cảm ấy gồm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+20 người Việt mù hài hòa này đã bày hết. Chỉ 6 mình đều vẫn bắt 
+y_true: 20 người vậy mà hầu như nay đã lang bạt hết. Chỉ còn anh Đại và bốn
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+người Hắc. Thân phẩm, quảng cáo người họ đi tới gà tâm mình nói cũng
+y_true: người khác. Thân phận, cuộc sống của họ là bi đát, và điều mỉa mai cũng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+như bạn chẳng biết phải là đã xã hội như vẫn đã đã từng gửi lời
+y_true: như làm chạnh lòng tôi là có phải họ đã xả thân vì đại nghĩa để rồi gia đình,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+vì có một bản phải nghĩa, khi vì xác định thành phần như thế nào, Vì đó bị
+y_true: vợ con ly tán, thất nghiệp, lâm vào cảnh đời tan nát như thế sao! Vì sao họ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để bàn điều đó Bà nạn bị nạn, đứt hàn và bày tấm người bị 
+y_true: đã làm điều đó? Ba năm trôi qua, chắc hẳn đã hàng trăm, ngàn lần
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+còn hầu đủ tiền vẫn không đủ người dùng bàn bê đủ kèm lực chạy
+y_true: câu hỏi đó tự đến với họ hoặc đến từ người thân, bạn bè đi kèm sự chua
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+chất / ngành mật.
+y_true: chát, ngậm ngùi.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và bám này, chuyện lương còn bàn cần đang vừa chính mình.
+y_true: Và hôm nay, chúng ta cũng cần hỏi câu hỏi này với chính mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Thứ trưởng Bộ tài nguyên và môi trường Đảng Hưng Vô tâm đạo vị.
+y_true: Thứ trưởng Bộ Tài nguyên & môi trường Đặng Hùng Võ tâm đắc với
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+có chế " Khuyến khiếc, mà đã từ thỏa thuận với người sử đặt đê nhện
+y_true: cơ chế " khuyến khích nhà đầu tư thỏa thuận với người sử dụng đất để nhận
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chuyên những hoặc thực quyền sử dụng đất, nhà góp vốn bằng quyền sử
+y_true: chuyển nhượng hoặc thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+dùng đặt ... " Những tài hóa nghị hộm quy, tiếng nói: Họ cà sò tù nguyện
+y_true: dụng đất... " Nhưng tại hội nghị hôm qua, tiếng nói từ các sở tài nguyên
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và mới truyền lên tiền hành "toạ bộ" điều khoản này ra khỏi địa đảo.
+y_true: & môi trường lại đều đồng thanh " loại bỏ " điều khoản này ra khỏi dự thảo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+gian đòi Sở tài nguyên và môi trường Hải phòng chưa Minh Tuân chế
+y_true: Giám đốc Sở Tài nguyên & môi trường Hải Phòng Chu Minh Tuấn cho
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+biết thành phố cảng đứng áp dâng cả chế " phố thắng " trong một số
+y_true: biết thành phố cảng từng áp dụng cơ chế " thỏa thuận " trong một số
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+rất ít thường họp, vậy mà đã gặp phải ủy theo kiểu đây chúng tôi là
+y_true: rất ít trường hợp, vậy mà đã gây phản ứng theo kiểu dây chuyền khá
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+mạnh: anh này nhận triển rồi quay lại đôi nếu ạ, anh lười hòa thuận.
+y_true: mạnh : anh này nhận tiền rồi quay lại đòi nữa, anh kia thỏa thuận
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+xông quay ra đối thoại thưa lâu...
+y_true: xong quay ra đòi thỏa thuận lại...
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chưa kể đến doanh nghiệp và người dân " nói chuyện " với nhau như
+y_true: Chưa kể để doanh nghiệp và người dân " nói chuyện " với nhau như
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+vậy, quyển của cô quan quan lý nhà nước sẽ mất đi. " Tôi cũng có sự
+y_true: vậy, quyền của cơ quan quản lý nhà nước sẽ mất đi. " Tôi cũng có suy
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+người như đường chạy đi Bộ được quy định này như thế tới. Cùng một lúc chúng
+y_true: nghĩ như đồng chí " Bỏ được qui định này đi thì tốt. Cùng một lúc chúng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ra thực hiện hai cố chế (vừa Nhà nước thực hiện thu hồi đất như cốc
+y_true: ta thực hiện hai cơ chế (vừa Nhà nước thực hiện thu hồi đất như cách
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+lên nay, với Hùng 1 khiết nhân dân Hà Thơ, tham dự ngày 5 sử dụng
+y_true: làm lâu nay, vừa khuyến khích nhà đầu tư thỏa thuận với người sử dụng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tất ) thì phải tập - ông Trịnh Liên Đình, phù giao đạo số 72.
+y_true: đất) thì phức tạp - ông Trịnh Kiên Đĩnh, phó giám đốc Sở Tài
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nguồn - một đường và nhà đất Hà Nội, liên đường.
+y_true: nguyên - môi trường và nhà đất Hà Nội, lên tiếng.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Đào dự, lớp trường cần cơ quan sách, Thủ trưởng Đảng thông vô trường đã.
+y_true: Bảo vệ lập trường của cơ quan soạn thảo, Thứ trưởng Đặng Hùng Võ khẳng định
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+n thường hợp như đánh tế sơ liên cấu theo phương thức người đang nổ dựng đất, đứng
+y_true: " trường hợp nhà đầu tư có nhu cầu thỏa thuận với người đang sử dụng đất, chúng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ta cần không biết từ Nhà nước chẳng mất cái gì cả ". Ông vô " kiên gọi " :
+y_true: ta cần khuyến khích vì Nhà nước chẳng mất cái gì cả ". Ông Võ " kêu gọi " :
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chúng ta cần thay đổi trong quan điểm, không nên đợi hệ thống hành chính
+y_true: chúng ta cần thay đổi trong quan điểm, không nên để hệ thống hành chính
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ơn viên như quả, bởi ôm càng khiến thì sao càng khiến, Bộ trưởng Mãi
+y_true: ôm về mình nhiều quá, bởi ôm càng nhiều thì sai càng nhiều. Bộ trưởng Mai
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Aí Trước tiếp lại: Các nước đánh dập đứng có đích từ thao? Hàng khi thực tế,
+y_true: Ái Trực tiếp lời : Các nước đều áp dụng cơ chế tự thỏa thuận khi thu hồi
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+đặt 
+y_true: đất.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Ngày cũ trường hồp tế kháng qui định, người dân và doanh nghiệp vẫn trở thêm 
+y_true: Ngay cả trường hợp ta không qui định, người dân và doanh nghiệp vẫn thực hiện
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+có đặc này. " Nếu có dùng quyển lục, hành chính nhà nước vẫn mở như thành đoàn
+y_true: cơ chế này. " Nếu cứ dùng quyền lực hành chính nhà nước với mô hình khuôn
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cũng, người dân sức kêu " - ông Trúc nói. Chuyên "bố" - " con". Phó Giám đốc.
+y_true: cứng, người dân sẽ kêu " - ông Trực nói. Chuyện " bố " - " con ". Phó giám đốc
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Số Tài nguyên - môi trường ở nhà đất Hà Nội Trường Kiên Bình đã nghị trọng: Trầm
+y_true: Sở Tài nguyên - môi trường & nhà đất Hà Nội Trịnh Kiên Đĩnh đề nghị : thẩm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+quyên thế hồ: đặt, giao đặt phí: đưa thẻ hẹn theo tỉnh ủng bộ bảo trợ
+y_true: quyền thu hồi đất, giao đất phải được thể hiện theo tinh thần " ông bố bao trùm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Bằng cơ 1. Theo đó, UBND cấp tỉnh, thành phố được quyền thụ hồi, giao đất
+y_true: ông con ". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đất
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+thực thân quyền của UBND cấp quận, huyện (Thay ơi cụi đình như thêm ngày,
+y_true: thuộc thẩm quyền của UBND cấp quận, huyện (thay vì qui định như hiện nay,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+"ông bố " mưu sản đại sử dụng phí thông báo cho "ông con" thức hồng, vừa nhiều
+y_true: " ông bố " muốn làm điều này phải thông báo cho " ông con " thực hiện, vừa nhiêu
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+học sinh không thể làm những điều cách thức thực hành chính.
+y_true: khê vừa không thể hiện hướng đi cải cách thủ tục hành chính).
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Lập tổ Thủ trưởng Đảng thông văn phản ứng: "ông bố có quyền của "ông bố"
+y_true: Lập tức Thứ trưởng Đặng Hùng Võ phản ứng : " ông bố " có quyền của " ông bố ",
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+“Bóng con” có quyền của “Bóng con”. Lượt không cho phép “ông bố” làm thay “ông
+y_true: " ông con " có quyền của " ông con ". Luật không cho phép " ông bố " làm thay " ông
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+con  " Trường hợp nào lành thấy là phạm luật, chỉ có điều kiện này mặc dù ông
+y_true: con ". Trường hợp nào làm thay là phạm luật, chỉ có điều hiện nay các " ông
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+con ả không đám kiên ma thôi !
+y_true: con " không dám kêu mà thôi!
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+khái quát về biến đổi việt nam
+y_true: KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Nước ta gặp với biển Đông 2 là phía Đông và Nam. Vùng biển Việt Nam
+y_true: Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([5, 100, 1280])
+=====================
+là một phản biện đóng.
+y_true: là một phần biển Đông.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Bộ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy có 100 km.
+y_true: Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+thì có 1 km bị biến (trung bình của thế giới là 600km2 đất liền/1km bị biến).
+y_true: thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển).
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Biên có vùng nội thủy, kênh hải, vùng đá guyên kính để và thêm lực đất vì 
+y_true: Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+liên thúc trên 1 triệu km2 (gặp 8 điện 6h đạt đến 1 triệu km2)
+y_true: diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 /
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+330.000km2
+y_true: 330.000 km2)
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Trong đó có 2 quần đảo tháng Sa, Trường Sa và 2.577 đảo thủ, nhỏ,
+y_true: Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+gần vì xa bố, hộp thành phương tuyến bảo vệ, kiểm soát và bảo chủ
+y_true: gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Mừng bến.
+y_true: vùng biển.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Cả vị trí chiến lược quan trọng: mọi liên tục khi Bình Dương và Anh Dương,
+y_true: Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cháu A với cháu A, cháu Vô với Trung Đông. Giáo luận quốc tế thuận
+y_true: châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([5, 100, 1280])
+=====================
+lị, phát triển ngành bền.
+y_true: lợi, phát triển ngành biển.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Có khi hầu biển là vùng nhiệt đội tạo điều kiện cho sự vất bên phạt.
+y_true: Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+triển bán bất.
+y_true: triển, tồn tại tốt.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Có tài nguyên sinh vật và khoảng sân phòng phù, đã dâng quý hôm.
+y_true: Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Vùng bình vải hải đảo nước ta có rì rì chiến lược một số tờ lớn, có cảnh hưởng 
+y_true: Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trước tập đến sự nghiệp bảo vệ nền đào lập dân tộc và xây dựng chiến lược.
+y_true: trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+xã hội, có liên quan thực tập đến sự phản vinh của đất nước, đến văn
+y_true: xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([7, 100, 1280])
+=====================
+mình và hành phúc của mình dân.
+y_true: minh và hạnh phúc của nhân dân.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Chường trình hành động thực hiện Nghị quyết trung ương 9- thỏa
+y_true: Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+IX của Đảng bộ TP.HCM về xây dựng Đảng: tiếp tục chỉ đạo mạnh,
+y_true: IX của Đảng bộ TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+mẹ, có hiệu quả cuộc vận động xây dựng chính tới Đảng đạo tỉnh.
+y_true: mẽ, có hiệu quả cuộc vận động xây dựng chỉnh đốn Đảng theo tinh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đường nghị quyết trung ương 6 (Liên đô). Theo đó, tiếp tục được hiện việc
+y_true: thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục thực hiện việc
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+lê khai nhà đất và có sợ xin nuất hình doanh của cán bộ - công chức.
+y_true: kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công chức;
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tăng cường thành kiểm tra những nỗi cố đau như vì phạm, đặc biệt
+y_true: tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trong linh vực đất đai và các công trình trong đường.
+y_true: trong lĩnh vực đất đai và các công trình trọng điểm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Xin lý nghiem minh đạo pháp luật và lý luật của Đảng những người
+y_true: Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+có hành vi sai trái và những người bao che. Thích hiện tốt cả quy định,
+y_true: có hành vi sai trái và những người bao che. Thực hiện tốt các quy định
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đời với cạnh bề lành dao, quản lý đất xây ra hàm những tiêu cực ở cả
+y_true: đối với cán bộ lãnh đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+quan, đơn vị. Kiện toàn và tăng dương sức chiến đấu của tổ chức
+y_true: quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cô 33 Đảng. Trịp túc đối mới và mảng cao công tác cạnh bị. Trịp túc
+y_true: cơ sở Đảng. Tiếp tục đổi mới và nâng cao công tác cán bộ. Tiếp tục
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tôi mới phường thức Lành tạo của cáp ủy Đảng theo phường chân.
+y_true: đổi mới phương thức lãnh đạo của cấp ủy Đảng theo phương châm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([5, 100, 1280])
+=====================
+hướng mạnh về cả 3.
+y_true: hướng mạnh về cơ sở.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Về dài cách hành chính: Tập trung chân chính mạnh hơn mùa đại cường.
+y_true: Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+hợi luật trọng bộ: máy hành chính, nâng cao trình đánh trách nhiệm và
+y_true: kỷ luật trong bộ máy hành chính, nâng cao tinh thần trách nhiệm và
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ý thức ký luật của CO-CC, nhất là trên lĩnh vực nhà đất, đất ở.
+y_true: ý thức kỷ luật của CB - CC, nhất là trên lĩnh vực nhà đất, đầu tư,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+mình doanh, trật tự cây dừng và giàu quyết nhiều mà, từ cơ độ.
+y_true: kinh doanh, trật tự xây dựng và giải quyết khiếu nại, tố cáo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Xây dựng hoàn thiện hệ thống các quy trình thủ tục hành chính.
+y_true: Xây dựng hoàn thiện hệ thống các qui trình thủ tục hành chính.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Kêu vụ quét chân chính bộ may hành chính cải cấp, mành chống
+y_true: Kiên quyết chấn chỉnh bộ máy hành chính các cấp, nhanh chóng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+khác phục tinh trang quan liệu, cùa quyên, khách đến.
+y_true: khắc phục tình trạng quan liêu, cửa quyền, hách dịch.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Xây dựng và phát triển dựng CB-CC có chất lượng chuyên môn.
+y_true: Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cao, có phạm chất, đào đức. Kiêm tra, xử lý hữu quyết các vụ
+y_true: cao, có phẩm chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tham nhúng, làng phí, làm chất thoát tài sản nhà nước... Viên hộ
+y_true: tham nhũng, lãng phí, làm thất thoát tài sản nhà nước... Về kinh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tế: Tập trung mới nổi tiếc nhằm đưa gỗ sản xuất như dành,
+y_true: tế : Tập trung mọi nỗ lực nhằm tháo gỡ sản xuất kinh doanh,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đưa tới đã tăng trưởng OP trên địa bàn TP đạt 146% năm.
+y_true: đưa tốc độ tăng trưởng GDP trên địa bàn TP đạt 12% năm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+2004 vua triển lãi và năm 2005. Đất triển nhạnh các ngành dịch vụ.
+y_true: 2004 và trên 12% năm 2005. Phát triển nhanh các ngành dịch vụ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+tài cầu trúc cải ngành công nghiệp.
+y_true: tái cấu trúc các ngành công nghiệp.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tiếp tục nhận rằng các mỏ hình huy dông vẫn đầu tư. Tập trung khả
+y_true: Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+được cải người với cho ngàn sách. Tổng kết quả trình có phản hồi.
+y_true: thác các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà
+y_true: doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+muối. Triển khai quyết định của TP về một số chính sách đầu tư.
+y_true: nước. Triển khai quyết định của TP về một số chính sách ưu đãi
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+tôi vì cái dù ấn cố vốn đầu tư nước ngoài. Khi sách Lại chứng
+y_true: đối với các dự án có vốn đầu tư nước ngoài. Rà soát lại chương
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tành hội nhập chính tế của TP. Về văn hóa - xã hội: đây mới.
+y_true: trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cả hội hoạt, phát triển xã hội học tập, ủu tiên đầu tư ngàn
+y_true: xã hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+cách cho giàu dục - đào tạo.
+y_true: sách cho giáo dục - đào tạo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Nàng cao nàng lúc quàn lý nhà nước trên cái linh vực hình danh.
+y_true: Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+dịch vụ xin hòa; khẩn phục những sở hữu, tiêu cực trong quản lý.
+y_true: dịch vụ văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và hoạt động văn hoá. Trải túc túc tập trung người lực cho chứng
+y_true: và hoạt động văn hóa. Tiếp tục tập trung nguồn lực cho chương
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+tính 3 giảm...
+y_true: trình 3 giảm...
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+Bản chất của thành công 
+y_true: BẢN CHẤT CỦA THÀNH CÔNG
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để bao gò ban từ hỗ trợ thang công tác mà bao kể bố cá của đối với thế độ? Phải chăng 
+y_true: Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đã là kết quả hoàn hảo trong việc, sử dụng xe đón trông du thật ấy hay đó là cách nói.
+y_true: đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+khác cũi từ thành đạt, nghĩa là có điều cũng sống giao sàng, đặc mỹ nghĩa nó phục Ở
+y_true: khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Vậy thì bạn hãy dành chút thời gian để kể những suy ngẫm.
+y_true: Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Gieo rừng sẽ chủ cho bạn có những người thảnh tất thảnh cũng như một cách giàu đời tới.
+y_true: Cuộc sống sẽ chỉ cho bạn có những người thành đạt được thành công theo một cách giản dị đến bất
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+hợi 
+y_true: ngờ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Thành công là khi bố vẫn còn trải cỏ dùng khi bước vào bếp, nếu những món ăn mẹ - thách nhau
+y_true: Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ngày 8-3. Mỗi cánh cỏ thế hải măng, mỗi cánh đang lệ phạt có mưu độ sắm thứ lưu gỗ sang
+y_true: ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+mau ... đen cháy. Những nhìn màu cơm, mẹ vẫn cốt: Ôi vì hai bộ con không thể thành
+y_true: màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ứng trước "chiều trường" bạc nước, phúng lại thưởng cũng khi tăng lực "đa lưng" của tỉnh yên.
+y_true: công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+một mùi quả ý nghĩa hôm cà nhưng mùi quả quý giá, hành phục ấy lạnh lẽ trong nữa 
+y_true: Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+mẹ 
+y_true: mẹ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Thanh ứng còn là nhà nhà mất cầu bố tất cả chào, không bao giờ đi lại bình thường 
+y_true: Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trước. Từ nhờ câu đã nói về mô tả thành câu thứ bóng đá. Sau bao nỗ lực khả dụng, câu
+y_true: được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bị trở thành cầu thủ dù bị trong một đại bóng nhỏ, nó chưa bao giờ đặc chính thực ra sao.
+y_true: bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Những đối tượng phải kể thật bại. Trải lợi, thành công đã nỗ lực của kẻ nam nữ, với báo
+y_true: Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nghị lực vì quyết tâm, đã chuẩn thông hẹn cạnh đế theo đời và mô tư ngày thế hệ.
+y_true: nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Thành công ấy, lời cô 'máy người đạt được ?
+y_true: Thành công ấy, liệu có mấy người đạt được?
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+sau mỗi mùa thịt tất lên, có bao "3 tứ" bốn râu khi bệnh mất trả thảo "3 tứ": Hai bảy đôi 
+y_true: Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " sĩ tử ". Hai bảy điểm,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cơ thất đây. Nhưng cao mả lâm gì khi Nữ Lý thế hai bảy phảy năm trở thất ra không phải.
+y_true: cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+là thời bại, chủ là khi thanh cộng - bị - tới - hậu mại nhà. Quả sống vẫn chạm đòn hờ vì:
+y_true: là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Nữ 2, Nữ 3. Quan trọng kế hoạch nỗ lực để đảm bảo chất sức đẳng đẳng định mình. Do tổ nghĩa vẫn nguyên 
+y_true: NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+của các kỹ thuật, và cũng là bản chất của thành công.
+y_true: của các kỳ thi, và cũng là bản chất của thành công.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Chương trình hoàn đồng thực hiện Nghị quyết trung ương 9 - thời 1x của Đảng 5.
+y_true: Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa IX của Đảng bộ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trường về xây dựng bằng: tiếp tục chỉ đạo mạnh mẽ, có hiệu quả được vận dụng.
+y_true: TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cuộc vận động xây
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+dự chính định theo tính thời quyết trung ủng 6 (1a 2). Theo đó, tập trung 
+y_true: dựng chỉnh đốn Đảng theo tinh thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trực hiện việc kê thai nhà đất và có số sản xuất lạnh dành của cán bộ - cộng 
+y_true: thực hiện việc kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chức i tổng cấp thành kiểm tra các những nơi có đối hiệu vi phạm, đặc biệt
+y_true: chức; tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+đứng lối về tất đại và các công trình trong đào.
+y_true: trong lĩnh vực đất đai và các công trình trọng điểm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Xúi lý nghiêm mình theo pháp luật và ký luật của Đảng những người có hạn
+y_true: Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người có hành
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+vị sai trâu và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh
+y_true: vi sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Eao, quản lý đề xây ra tham nhũng, tiêu ước dễ quản, đơn giờ. Kiện toàn vụ
+y_true: đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiện toàn và
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tăng công sức chiến đấu và tổ chức cơ sở Đảng. Tập tục đổi mới và nâng
+y_true: tăng cường sức chiến đấu của tổ chức cơ sở Đảng. Tiếp tục đổi mới và nâng
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+cao công tác chủ bộ. Triệt tác đối mời phường thực hiện tạo cứu cấp ủy
+y_true: cao công tác cán bộ. Tiếp tục đổi mới phương thức lãnh đạo của cấp ủy
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([7, 100, 1280])
+=====================
+Bảng theo phường châm hướng mảng về có số.
+y_true: Đảng theo phương châm hướng mạnh về cơ sở.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Việc cơ chế hành chính : Tập trung chính mặc hơn nữa tại cộng, bị hút trong
+y_true: Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương, kỷ luật trong
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bỏ may hành chính, ngày cao tình trạng trách nhiệm và ý thức lấy dự án bốc
+y_true: bộ máy hành chính, nâng cao tinh thần trách nhiệm và ý thức kỷ luật của CB - CC,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nhất là trên lịch sử của nhà đại, đầu tư, lưu đoàn, trả lại xây dựng và
+y_true: nhất là trên lĩnh vực nhà đất, đầu tư, kinh doanh, trật tự xây dựng và
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+giải quyết khiêu nại, tổ cáo. Xây dựng hoàn thiện hệ thống các quy trắc
+y_true: giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các qui trình
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+thủ tục hành chính. kiên quyết đánh chính bộ máy hành chính các cấp
+y_true: thủ tục hành chính. Kiên quyết chấn chỉnh bộ máy hành chính các cấp,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nhân sách thác phục tình trạng quan liệu của quyền, khách dịch.
+y_true: nhanh chóng khắc phục tình trạng quan liêu, cửa quyền, hách dịch.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Xây dựng và phát triển đối ngữ CB-cc có chất lượng chuyên môn cao, có phẩm 
+y_true: Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn cao, có phẩm
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+chất, đạo đức. Kiểm tra, xử lý kiện quyết các cụ đã tham nhũng, lấy phí.
+y_true: chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ tham nhũng, lãng phí,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+làm thai thơi tay sân nhà nước .... Về bưng tế: tập trung mới số lực
+y_true: làm thất thoát tài sản nhà nước... Về kinh tế : Tập trung mọi nỗ lực
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nhằm tháo gỗ sản xuất linh doanh, đầu tư tổ dự trữ trường GDP trên địa 
+y_true: nhằm tháo gỡ sản xuất kinh doanh, đưa tốc độ tăng trưởng GDP trên địa
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bán 7p đạt 12 % năm 2004 và trên 12 % năm 2005. Phải tiến hàng
+y_true: bàn TP đạt 12% năm 2004 và trên 12% năm 2005. Phát triển nhanh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+các ngành dịch vụ, tài cảu trực có ngã công nghiệp.
+y_true: các ngành dịch vụ, tái cấu trúc các ngành công nghiệp.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Tập' tư chân răng các mô hình. Hãy đóng vở đầu từ. Tập trung khai được
+y_true: Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai thác
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+các nguồn vốn cho người sách. Tổng kết quả trưng bố phát hoá doanh
+y_true: các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nghịp nhà nước và việc tổ chức, sắp xếp lại doanh nghiệp nhà nước.
+y_true: nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Trình khai quyết định của TP về một số chính sách dự án đã đối với.
+y_true: Triển khai quyết định của TP về một số chính sách ưu đãi đối với
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+các dự án có vốn đầu tư nước ngoài. Rà sách lời các chứng
+y_true: các dự án có vốn đầu tư nước ngoài. Rà soát lại chương
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+trình hồi nhập kín tế của TP. Về văn hóa - xã hội; đây mấy xã
+y_true: trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh xã
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+hỏi hỏi, phải trình xác hội học tập, lưu điện đau tật ngăn sách
+y_true: hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân sách
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([5, 100, 1280])
+=====================
+cho giáo dục - đào tạo.
+y_true: cho giáo dục - đào tạo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Năng cao năng lực quản lý nhà nước trên các hãng vực bên dưới đều được dịch vụ.
+y_true: Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+vạn hòi ; khác phục những sở hộ, trên các trọng quản lý và hoạt động
+y_true: văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý và hoạt động
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+vạn hoá. Tiếp tục tập trung người lực cho đường trần 3 giảm ...
+y_true: văn hóa. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Viết tiếp về mục ảnh - Mưu Xuân Đại. Ngày trước khi báo cáo phản ưu mình người mới lên sự thật "phát hành, nhiều lần tác đã bị bị sửa chữa sẽ" ứng hồ anh Trương Xuân Đại. Mất hơn đọc 6 7 tuổi ở Q.11đến gửi tông anh Trương Xuân Đại 150.000 đồng, mất có gì nên làm gì? Tại Bình gửi tới Q.000 đồng, mất thành món tên Hà, đến gửi 200.000 đồng. Sau đó và mua là Mà 1.000 đồng.
+y_true: Viết tiếp về vụ anh Trương Xuân Đại. Ngay từ khi tờ báo có bài " Số phận của những người nói lên sự thật " phát hành, nhiều bạn đọc đã bày tỏ sự chia sẻ, ủng hộ anh Trương Xuân Đại. Một bạn đọc 67 tuổi ở Q.11 đến gửi tặng anh Trương Xuân Đại 150.000 đồng, một cô gái tên Nhung ở Tân Bình gửi tặng 100.000 đ, một thanh niên tên Hà đến gửi 200.000 đ. Sau đó nữa là rất nhiều bạn đọc gọi đến bày tỏ sự chia sẻ, ủng hộ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Bạn liên tạp báo "Tuần Tư" cũng quyết định gửi nhằm công nhận để tổ sở thiếu có "đường dẫn công A5, 90 triệu đồng". Điều đó người dân đã cuộc cho niêm tín! Bưu báo đã bàn đã bàn đã đã đã đã đã đã đã đã đã đã đà đà đà đà đà đà đà đà đà đà đã đà đà đà đà đà đà đà đà đã đã đà đà đà đà đà đà đà đã đã đã đà đà đà đà đà đà đã đã đà đã đà đà đà đà đà đà đã đã đã đã đà đà đà đà đà đã đã đã đà đã đà đà đà đà đà đã đã đã đã đã đà đà đà đà đã đã đã đã đà đã đà đà đà đà đã đã đã đã đã đã đà đà đà đã đã đã đã đà đà đã đà đã đã đã đà đà đà đà đã đã đà đã đà đã đà đà đà đà đã đã đà đã đã đà đà đà đà đã đã đã đà đã đã đà đà đà đà đà đã đã đà đã đã đã đà đà đà đà đà đã đà đã đà đã đà đà đà đà đà đã đà đã đã đà đà đà đà đà đà đã đà đã đà đà đà đà đà đà đà đã đà đã đã đã đà đà đã đà đà đà đà đã đã đà đà đà đã đà đà đà đà đà đã đà đà đã đà đà đà đà đà đà đã đà đà đã đã đà đà đà đà đà đã đà đà đà đã đà đà đà đà đã đà đà đà đà đã đã đã đà đà đã đà đà đã đà đà đà đã đà đã đà đà đà đã đà đà đã đà đà đã đà đà đã đã đà đà đã đà đà đã đà đã đà đà đã đà đã đà đà đà đã đã đà đà đã đà đà đà đã đà đà đã đã đà đã đà đà đã đà đã đà đã đà đã đà đã đà đà đã đà đã đã đà đã đà đã đà đã đà đã đã đà đã đà đã đã đà đã đà đà đã đà đà đã đà đã đã đà đà đã đà đã đà đã đà đà đã đã đà đã đà đã đà đã đã đà đà đã đà đà đã đã đà đã đã đà đã đà đã đà đà đã đà đà đã đã đã đà đã đà đã đà đã đà đà đà đã đà đã đà đã đà đã đã đã đà đã đà đã đà đà đã đã đã đà đã đã đà đã đà đã đã đã đà đã đã đà đã đã đà đã đã đà đà đã đã đà đã đà đã đã đà đà đã đã đà đà đã đã đà đã đã đà đà đã đà đã đã đà đã đã đà đã đà đà đã đã đà đã đã đã đà đã đã đà đà đã đã đã đà đã đã đã đà đã đã đã đà đà đã đã đã đà đã đà đà đã đã đã đà đà đã đã đà đã đã đã đã đà đã đã đã đã đã đã đã đã đã đa đã đã đã đã đã đã đã đã đã đá đã đã đã đã đã đã đã đã đã đă đã đã đã đã đã đã đã đã đã đâ đã đã đã đã đã đã đã đã đã đạ đã đã đã đã đã đã đã đã đã đầ đã đã đã đã đã đã đã đã đã đẩ đã đã đã đã đã đã đã đã đã đủ đã đã đã đã đã đã đã đã đã đâu đã đã đã đã đã đã đã đã đã đơ đã đã đã đã đã đã đã đã đã đập đã đã đã đã đã đã đã đã đã đợ đã đã đã đã đã đã đã đã đã đứ đã đã đã đã đã đã đã đã đã đố đã đã đã đã đã đã đã đã đã đẽ đã đã đã đã đã đã đã đã đã đặ đã đã đã đã đã đã đã đã đã đệ đã đã đã đã đã đã đã đã đã đữ đã đã đã đã đã đã đã đã đã đừ đã đã đã đã đã đã đã đã đã đả đã đã đã đã đã đã đã đã đã để đã đã đã đã đã đã đã đã đã đổ đã đã đã đã đã đã đã đã đã đấ đã đã đã đã đã đã đã đã đã đề đã đã đã đã đã đã đã đã đã đắ đã đã đã đã đã đã đã đã đã đư đã đã đã đã đã đã đã đã đã đị đã đã đã đã đã đã đã đã đã đở đã đã đã đã đã đã đã đã đã đán đã đã đã đã đã đã đã đã đã đàn đã đã đã đã đã đã đã đã đã dã đã đã đã đã đã đã đã đã đã dạ đã đã đã đã đã đã đã đã đã dể đã đã đã đã đã đã đã đã đã dố đã đã đã đã đã đã đã đã đã dơ đã đã đã đã đã đã đã đã đã dủ đã đã đã đã đã đã đã đã đã dự đã đã đã đã đã đã đã đã đã dừ đã đã đã đã đã đã đã đã dã đủ đã đã đã đã đã đã đã đã dã đầ đã đã đã đã đã đã đã đã dã đập đã đã đã đã đã đã đã đã dã đạ đã đã đã đã đã đã đã đã dã đà đã đã đã đã đã đã đã đã dã đá đã đã đã đã đã đã đã đã dã đẩ đã đã đã đã đã đã đã đã dã để đã đã đã đã đã đã đã đã dã đệ đã đã đã đã đã đã đã đã dã đâu đã đã đã đã đã đã đã đã dã đấ đã đã đã đã đã đã đã đã dã đắ đã đã đã đã đã đã đã đã dã đặ đã đã đã đã đã đã đã đã dã đề đã đã đã đã đã đã đã đã dã đào đã đã đã đã đã đã đã đã dã đố đã đã đã đã đã đã đã đã dã đáp đã đã đã đã đã đã đã đã dã đế đã đã đã đã đã đã đã đã dã đến đã đã đã đã đã đã đã đã dã đứ đã đã đã đã đã đã đã đã dã đối đã đã đã đã đã đã đã đã đã dĩ đã đã đã đã đã đã đã đã đã đù đã đã đã đã đã đã đã đã đã đũ đã đã đã đã đã đã đã đã đã đỗ đã đã đã đã đã đã đã đã đã đò đã đã đã đã đã đã đã đã đã đờ đã đã đã đã đã đã đã đã đã đối đã đã đã đã đã đã đã đã dã đán đã đã đã đã đã đã đã đã dã đậ đã đã đã đã đã đã đã đã đã đế đã đã đã đã đã đã đã đã đã đè đã đã đã đã đã đã đã đã đã đĩ đã đã đã đã đã đã đã đã đã dũ đã đã đã đã đã đã đã đã đã dù đã đã đã đã đã đã đã đã đã dữ đã đã đã đã đã đã đã đã đã dứ đã đã đã đã đã đã đã đã đã dư đã đã đã đã đã đã đã đã đã dử đã đã đã đã đã đã đã đã đã dâu đã đã đã đã đã đã đã đã dã dã đã đã đã đã đã đã dã đã đã dã đã đã đã đã đã dã đã đã đã dã đã đã đã đã đã dã dã đã đã dã đã đã đã đã đã đã dã đã dã đã đã đã đã đã đã dã dã đã dã đã đã đã đã đã đã đã dã đã dã dã đã đã đã đã đã đã đã dã dã dã đã đã đã đã đã đã dã dã dã dã đã đã đã đã đã đã đã đã dã dũ đã đã đã đã đã đã đã đã dã dứ đã đã đã đã đã đã đã đã dã dư đã đã đã đã đã đã đã đã dã dự đã đã đã đã đã đã đã đã dã dù đã đã đã đã đã đã đã đã dã dữ đã đã đã đã đã đã đã đã dã dõ đã đã đã đã đã đã đã đã đã dõ đã đã đã đã đã đã đã đã dã dố đã đã đã đã đã đã đã đã dã dơ đã đã đã đã đã đã đã đã dã dò đã đã đã đã đã đã đã đã đã dò đã đã đã đã đã đã đã đã dã dừ đã đã đã đã đã đã đã đã đã dû đã đã đã đã đã đã đã đã dã dủ đã đã đã đã đã đã đã đã dã dưở đã đã đã đã đã đã đã đã đã đõ đã đã đã đã đã đã đã đã đã đễ đã đã đã đã đã đã đã đã đã đỉ đã đã đã đã đã đã đã đã đã đì đã đã đã đã đã đã đã đã đã đî đã đã đã đã đã đã đã đã đã đó đã đã đã đã đã đã đã đã đã đô đã đã đã đã đã đã đã đã đã đỏ đã đã đã đã đã đã đã đã đã đài đã đã đã đã đã đã đã đã đã đái đã đã đã đã đã đã đã đã đã đại đã đã đã đã đã đã đã đã đã đàng đã đã đã đã đã đã đã đã đã đang đã đã đã đã đã đã đã đã đã đất đã đã đã đã đã đã đã đã đã đạt đã đã đã đã đã đã đã đã đã đặt đã đã đã đã đã đã đã đã đã đền đã đã đã đã đã đã đã đã đã đông đã đã đã đã đã đã đã đã đã đóng đã đã đã đã đã đã đã đã đã đều đã đã đã đã đã đã đã đã đã đẫ đã đã đã đã đã đã đã đã đã đậ đã đã đã đã đã đã đã đã dã đẽ đã đã đã đã đã đã đã đã dã đễ đã đã đã đã đã đã đã đã dã đều đã đã đã đã đã đã đã đã dã đểu đã đã đã đã đã đã đã đã đã đểu đã đã đã đã đã đã đã đã dã đữ đã đã đã đã đã đã đã đã dã đù đã đã đã đã đã đã đã đã dã đũ đã đã đã đã đã đã đã đã dã đừ đã đã đã đã đã đã đã đã dã dử đã đã đã đã đã đã đã đã dã dướ đã đã đã đã đã đã đã đã đã đồ đã đã đã đã đã đã đã đã đã đổi đã đã đã đã đã đã đã đã đã đòng đã đã đã đã đã đã đã đã đã đến đã đã đã đã đã đã đã đã đã đào đã đã đã đã đã đã đã đã đã đày đã đã đã đã đã đã đã đã đã đí đã đã đã đã đã đã đã đã đã đới đã đã đã đã đã đã đã đã đã đốn đã đã đã đã đã đã đã đã đã độ đã đã đã đã đã đã đã đã đã đạn đã đã đã đã đã đã đã đã đã đân đã đã đã đã đã đã đã đã đã đên đã đã đã đã đã đã đã đã đã đớ đã đã đã đã đã đã đã đã đã đời đã đã đã đã đã đã đã đã đã đôi đã đã đã đã đã đã đã đã đã đùng đã đã đã đã đã đã đã đã đã đương đã đã đã đã đã đã đã đã đã đúng đã đã đã đã đã đã đã đã đã đống đã đã đã đã đã đã đã đã đã đình đã đã đã đã đã đã đã đã đã đọ đã đã đã đã đã đã đã đã đã đơn đã đã đã đã đã đã đã đã đã đê đã đã đã đã đã đã đã đã đã đệt đã đã đã đã đã đã đã đã đã đử đã đã đã đã đã đã đã đã đã đự đã đã đã đã đã đã đã đã đã đảng đã đã đã đã đã đã đã đã đã đáng đã đã đã đã đã đã đã đã đã đẳng đã đã đã đã đã đã đã đã đã đăng đã đã đã đã đã đã đã đã đã đứng đã đã đã đã đã đã đã đã đã đẹ đã đã đã đã đã đã đã đã đã đẻ đã đã đã đã đã đã đã đã đã đón đã đã đã đã đã đã đã đã đã đòn đã đã đã đã đã đã đã đã đã đột đã đã đã đã đã đã đã đã đã đích đã đã đã đã đã đã đã đã đã đằ đã đã đã đã đã đã đã đã đã đây đã đã đã đã đã đã đã đã đã đần đã đã đã đã đã đã đã đã đã đÃ đã đã đã đã đã đã đã đã đã đÀ đã đã đã đã đã đã đã đã đã đÁ đã đã đã đã đã đã đã đã đã đƠ đã đã đã đã đã đã đã đã đã đĂ đã đã đã đã đã đã đã đã đã đĄ đã đã đã đã đã đã đã đã đã đÝ đã đã đã đã đã đã đã đã đã đÒ đã đã đã đã đã đã đã đã đã đÓ đã đã đã đã đã đã đã đã đã đÔ đã đã đã đã đã đã đã đã đã đÌ đã đã đã đã đã đã đã đã đã đÍ đã đã đã đã đã đã đã đã đã đÎ đã đã đã đã đã đã đã đã đã đA đã đã đã đã đã đã đã đã đã đÂ đã đã đã đã đã đã đã đã đã đ¸ đã đã đã đã đã đã đã đã đã đª đã đã đã đã đã đã đã đã đã đǄ đã đã đã đã đã đã đã đã đã đÿ đã đã đã đã đã đã đã đã đã đŒ đã đã đã đã đã đã đã đã đã dƯ đã đã đã đã đã đã đã đã đã đĈ đã đã đã đã đã đã đã đã đã đß đã đã đã đã đã đã đã đã đã đđ đã đã đã đã đã đã đã đã đã đð đã đã đã đã đã đã đã đã đã đñ đã đã đã đã đã đã đã đã đã đĐ đã đã đã đã đã đã đã đã đã đý đã đã đã đã đã đã đã đã đã đȄ đã đã đã đã đã đã đã đã đã dǄ đã đã đã đã đã đã đã đã đƠđã đã đã đã đã đã đã đã đã đã đó đã đã đã đã đã đã đã đã đã đ đã đã đã đã đã đã đã đã đã đóđã đã đã đã đã đã đã đã đã đƯ đã đã đã đã đã đã đã đã đƯđã đã đã đã đã đã đã đã đã đỒ đã đã đã đã đã đã đã đã đã đóĐ đã đã đã đã đã đã đã đã đã đóƯ đã đã đã đã đã đã đã đã đợđã đã đã đã đã đã đã đã đã đứđã đã đã đã đã đã đã đã đã đĩđã đã đã đã đã đã đã đã đã đóđã đã đã đã đã đã đã đã đã đòđã đã đã đã đã đã đã đã đã đủđã đã đã đã đã đã đã đã đã đầđã đã đã đã đã đã đã đã đã đàđã đã đã đã đã đã đã đã đã đăđã đã đã đã đã đã đã đã đã đạđã đã đã đã đã đã đã đã đã đĂđã đã đã đã đã đã đã đã đã đĄđã đã đã đã đã đã đã đã đã đÝđã đã đã đã đã đã đã đã đã đơđã đã đã đã đã đã đã đã đã đởđã đã đã đã đã đã đã đã đã đõđã đã đã đã đã đã đã đã đã đđã đã đã đã đã đã đã đã đã đểđã đã đã đã đã đã đã đã đã đẽđã đã đã đã đã đã đã đã đã đáđã đã đã đã đã đã đã đã đã đâđã đã đã đã đã đã đã đã đã đǌđã đã đã đã đã đã đã đã đã đỗđã đã đã đã đã đã đã đã đã đổđã đã đã đã đã đã đã đã đã đÃđã đã đã đã đã đã đã đã đã đÀđã đã đã đã đã đã đã đã đã đÁđã đã đã đã đã đã đã đã đã đÛđã đã đã đã đã đã đã đã đã đÓđã đã đã đã đã đã đã đã đã đẠđã đã đã đã đã đã đã đã đã đóđđã đã đã đã đã đã đã đã đã đÿđã đã đã đã đã đã đã đã đã đŐđã đã đã đã đã đã đã đã đã đôđã đã đã đã đã đã đã đã đã đữđã đã đã đã đã đã đã đã đã đừđã đã đã đã đã đã đã đã đã đũđã đã đã đã đã đã đã đã đã đốđã đã đã đã đã đã đã đã đã đồđã đã đã đã đã đã đã đã đã đễđã đã đã đã đã đã đã đã đã đîđã đã đã đã đã đã đã đã đã đýđã đã đã đã đã đã đã đã đã đùđã đã đã đã đã đã đã đã đã đađã đã đã đã đã đã đã đã đã đĉđã đã đã đã đã đã đã đã đã đèđã đã đã đã đã đã đã đã đã đìđã đã đã đã đã đã đã đã đã đíđã đã đã đã đã đã đã đã đã đỉđã đã đã đã đã đã đã đã đã đốiđã đã đã đã đã đã đã đã đã đờđã đã đã đã đã đã đã đã đã đưđã đã đã đã đã đã đã đã đã đặđã đã đã đã đã đã đã đã đã đệđã đã đã đã đã đã đã đã đã đẩđã đã đã đã đã đã đã đã đã đắđã đã đã đã đã đã đã đã đã đẻđã đã đã đã đã đã đã đã đã đấtđã đã đã đã đã đã đã đã đã đạtđã đã đã đã đã đã đã đã đã đấđã đã đã đã đã đã đã đã đã đúngđã đã đã đã đã đã đã đã đã đôngđã đã đã đã đã đã đã đã đã đóngđã đã đã đã đã đã đã đã đã đangđã đã đã đã đã đã đã đã đã đángđã đã đã đã đã đã đã đã đã đàngđã đã đã đã đã đã đã đã đã đànđã đã đã đã đã đã đã đã đã đánđã đã đã đã đã đã đã đã đã đânđã đã đã đã đã đã đã đã đã đảđã đã đã đã đã đã đã đã đã đâmđã đã đã đã đã đã đã đã đã đámđã đã đã đã đã đã đã đã đã đềnđã đã đã đã đã đã đã đã đã đớđã đã đã đã đã đã đã đã đã đỏđã đã đã đã đã đã đã đã đã đâuđã đã đã đã đã đã đã đã đã đậpđã đã đã đã đã đã đã đã đã đọđã đã đã đã đã đã đã đã đã đêđã đã đã đã đã đã đã đã đã đếđã đã đã đã đã đã đã đã đã đâyđã đã đã đã đã đã đã đã đã đàyđã đã đã đã đã đã đã đã đã đềuđã đã đã đã đã đã đã đã đã đươngđã đã đã đã đã đã đã đã đã đăngđã đã đã đã đã đã đã đã đã đẳngđã đã đã đã đã đã đã đã đã đứngđã đã đã đã đã đã đã đã đã đảngđã đã đã đã đã đã đã đã đã đìnhđã đã đã đã đã đã đã đã đã đíchđã đã đã đã đã đã đã đã đã đinhđã đã đã đã đã đã đã đã đã đờiđã đã đã đã đã đã đã đã đã đổiđã đã đã đã đã đã đã đã đã đôiđã đã đã đã đã đã đã đã đã đòngđã đã đã đã đã đã đã đã đã đạiđã đã đã đã đã đã đã đã đã đàiđã đã đã đã đã đã đã đã đã đáiđã đã đã đã đã đã đã đã đã đàođã đã đã đã đã đã đã đã đã đãođã đã đã đã đã đã đã đã đã đốnđã đã đã đã đã đã đã đã đã đầnđã đã đã đã đã đã đã đã đã đạnđã đã đã đã đã đã đã đã đã đanđã đã đã đã đã đã đã đã đã đácđã đã đã đã đã đã đã đã đã đặcđã đã đã đã đã đã đã đã đã đǎđã đã đã đã đã đã đã đã đã đαđã đã đã đã đã đã đã đã đã đβđã đã đã đã đã đã đã đã đã đßđã đã đã đã đã đã đã đã đã đаđã đã đã đã đã đã đã đã đã đếnđã đã đã đã đã đã đã đã đã đênđã đã đã đã đã đã đã đã đã đas đã đã đã đã đã đã đã đã đã đα đã đã đã đã đã đã đã đã đã đβ đã đã đã đã đã đã đã đã đã đǎ đã đã đã đã đã đã đã đã đã đan đã đã đã đã đã đã đã đã đã đão đã đã đã đã đã đã đã đã đã đinh đã đã đã đã đã đã đã đã đã đác đã đã đã đã đã đã đã đã đã đặc đã đã đã đã đã đã đã đã đã đèn đã đã đã đã đã đã đã đã đã đasđã đã đã đã đã đã đã đã đã đènđã đã đã đã đã đã đã đã đã đen đã đã đã đã đã đã đã đã đã đenđã đã đã đã đã đã đã đã đã đol đã đã đã đã đã đã đã đã đã đolđã đã đã đã đã đã đã đã đã đor đã đã đã đã đã đã đã đã đã đorđã đã đã đã đã đã đã đã đã đox đã đã đã đã đã đã đã đã đã đoxđã đã đã đã đã đã đã đã đã đex đã đã đã đã đã đã đã đã đã đexđã đã đã đã đã đã đã đã đã đax đã đã đã đã đã đã đã đã đã đaxđã đã đã đãy_true: Ban biên tập báo Tuổi Trẻ cũng quyết định gửi tặng nhóm công nhân đã tố cáo tiêu cực ở đường liên cảng A5 10 triệu đồng. Đừng để người dân đặt cược cho niềm tin! Qua báo chí, bản thân tôi đã được biết về việc tố cáo những sai phạm của công rình đường liên cảng A5 mấy năm trước đây, nhưng nay mới biết việc làm dũng cảm và tốt đẹp đó đã mang đến bao hệ lụy phiền phức cho những người trong cuộc, những người mà theo tôi vô cùng xứng đáng với danh hiệu hiệp sĩ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+The chính mình là người có cơ hội nào? Người thì bỏng thằng như bạc chứa ở bộ, họ thì càng có được do đủ tiền được bác chàng phải ta bác bóng bóng có đủ tiền bỏng ngay ngày. Sẽ mở thường thì bác lạc thêm đều với những thứ bị chẳng hạn như đã có. Lấy người đã đã có đủ tiền thì người cũng có đủ tiền, đủ chắc là người có đủ tiền thì người cũng có đủ tiền, đủ tiền thì người cũng có đủ tiền, đủ tiên thì người cũng có đủ tiền, đủ tiền thì người có đủ tiền, đủ tiền thì người cũng có đủ.
+y_true: Thế nhưng những hiệp sĩ ấy giờ ra sao? Người thì lang thang, phiêu bạt, kẻ thì vợ bỏ, kẻ thì cày ải trên những con đường đô thị để lượm ve chai, phải tá túc trong những căn chòi tạm bợ sống qua ngày. Ngẫm sao mà thương thế! Đáng lẽ phải được tôn vinh thì trái lại những con người ấy đã bị đẩy xuống đáy cùng của cuộc sống! Cũng may mà anh Đại đã thắng kiện, đó chắc là một niềm an ủi và là một khẳng định để anh và các đồng nghiệp, người thân tin rằng các anh không đơn độc trong việc theo đuổi niềm tin về lẽ phải của mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Lưu nữa, thầy thành tác đã xác định sự tham mưu không xử lý mà đã "mượn" lời ngày cũng. Lưu thành đã đưa người này lời, nếu chúng mình nhận có "thủ tướng chúng cũng không đem tài A Schach, phục vụ người đang cũng có "thủ tướng chúng cũng không đem tài A Schách, phục vụ người đang cũng có "thủ tướng cũng không đem tài A Schách, phục vụ người đã đưa người này lời, nếu chúng mình nhận "thủ tướng chúng cũng không đem tài A Schách" phục vụ người đã đưa người này lời, nếu cũng không đem tài A Schách, phục vụ người đa đưa người này lời, nếu cũng không đem tài "A Schách" phục vụ người đã đưa người này lời. Nhưng không đem tài A Schách, phục vụ người đã đã đưa người này lời. Nhưng không đem tài "A Schách" phục vụ người đã được đưa người này lời. Nhưng không đem tài "A SCHách" phục vụ người đã được đưa người này lời."
+y_true: Lại nữa, khi thanh tra đã xác định sai phạm sao không xử lý mà để " ngâm " lâu ngày đến vậy? Tôi không phải là người trong lĩnh vực chuyên môn nhưng có thể hình dung công trình đường liên cảng A5 chắc là nhằm phục vụ hoạt động của các nhà đầu tư trong Khu chế xuất Tân Thuận. Vậy thì khi không khắc phục ngay mà còn để con đường xuống cấp thê thảm, có phải là góp thêm phần làm xấu đi môi trường đầu tư của thành phố hay không, và cũng đồng nghĩa với việc mất đi bao nhiêu cơ hội làm việc và cải thiện cuộc sống của người lao động - đồng bào - hay không?
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+chúng tôi có hơn nhiều vị diện Chương mình việc làm lại của cơ sở như xây dựng công việc để mở rộng phẩm ăn gà phẩm của công chúng, không chỉ có AS (AS) mà chúng tôi không có biết Chưa có người vì làm dựng chúng tôi không có biết chúng tôi không có biết chúng tôi không có biết chúng tối đã vì mình đã xây dựng chúng tôi không có biết chúng tối đã vì mình đây chúng tôi không có biết chúng tối đã vì mình đấy chúng tôi không có biết chúng tối đã vì mình đầy chúng tối đã vì mình đầy chúng tối đã và vì mình đầy chúng tối đã vì mình đầm chúng tối đã vì mình đầy chúng tối đã với mình đầy chúng tối đã với mình đầy chúng 
+y_true: Chúng ta " hoan nghênh và biểu dương những việc làm tốt của công nhân xây dựng trong việc thông tin, phản ánh sai phạm của công trình đường liên cảng A5 ", nhưng chắc là không có hình thức hoan nghênh và biểu dương nào thiết thực hơn đối với anh Đại và những đồng nghiệp là xử lý ngay những sai phạm (đã rõ mười mươi) và có biện pháp hữu hiệu khắc phục những sai phạm đó. Có như vậy niềm tin vào lẽ phải mới được khôi phục và người dân sẽ không còn phải đặt cược cho niềm tin của mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Phân tích máy chuyển dòng không thường làm công nhận chuyển cơm ấy (gồm 20 người Vụ mù hải như ng chạy lên bất kỳ chỗ cơm Dự viện hải n gương Mặc. Thân phản, quảng cáo họ thích và dân mù nên cung nhiều loại chế độ chuyển bất phải họ. Đã xã Nhân vũ chịu phải dân mù gì đó vì cơm họ không thường làm văn cảnh đạo cơm phục hộ. Một Vụ họ đã làm dân Mặc Bác hội lập gồm 4 chức hạn, đã hạ cơm trong ngoại bàn bộ dự kiến lên cơm hải dân cũng vì họ chịu phải họ.
+y_true: Phải là một câu chuyện đàng hoàng! Nhóm công nhân dũng cảm ấy gồm 20 người vậy mà hầu như nay đã lang bạt hết. Chỉ còn anh Đại và bốn người khác. Thân phận, cuộc sống của họ là bi đát, và điều mỉa mai cũng như làm chạnh lòng tôi là có phải họ đã xả thân vì đại nghĩa để rồi gia đình, vợ con ly tán, thất nghiệp, lâm vào cảnh đời tan nát như thế sao! Vì sao họ đã làm điều đó? Ba năm trôi qua, chắc hẳn đã hàng trăm, ngàn lần câu hỏi đó tự đến với họ hoặc đến từ người thân, bạn bè đi kèm sự chua chát, ngậm ngùi.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và bám này, chúng ta cũng còn bảo đảm và chính mình.
+y_true: Và hôm nay, chúng ta cũng cần hỏi câu hỏi này với chính mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Thứ trường Bộ tài nguyên và môi trường Đảng Hưng Vô tâm đã vẫn có chế " Khuyến khích nhà tài trợ thỏa thuận với người sửa đất" để nhận chuyên nhúng hoặc thực quyền sử dụng đất, nhân góp vốn bằng quyền sử dụng đất... " Những tại hội nghị hôm qua, tiếng nói rất các số tài nguyên và môi trường như là " Đoàn bộ " đã tiến khoản này ra khỏi địa thảo. Giám đốc Sở tài nguyên và môi trường Hà Phòng Chủ Mình Tỉnh chê, biết " Hành phó cảng đảng áp dụng các chế " Đoàn Tỉnh chê, biết " Hành phó cảng đảng áp dùng các chế " Đoàn Tỉnh chê, biết " Hành phố cảng đảng áp dụng các chế " Đoàn Tỉnh chê.
+y_true: Thứ trưởng Bộ Tài nguyên & môi trường Đặng Hùng Võ tâm đắc với cơ chế " khuyến khích nhà đầu tư thỏa thuận với người sử dụng đất để nhận chuyển nhượng hoặc thuê quyền sử dụng đất, nhận góp vốn bằng quyền sử dụng đất... " Nhưng tại hội nghị hôm qua, tiếng nói từ các sở tài nguyên & môi trường lại đều đồng thanh " loại bỏ " điều khoản này ra khỏi dự thảo. Giám đốc Sở Tài nguyên & môi trường Hải Phòng Chu Minh Tuấn cho biết thành phố cảng từng áp dụng cơ chế " thỏa thuận " trong một số rất ít trường hợp, vậy mà đã gây phản ứng theo kiểu dây chuyền khá mạnh : anh này nhận tiền rồi quay lại đòi nữa, anh kia thỏa thuận xong quay ra đòi thỏa thuận lại...
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+chưa lẽ để đang nghiệp và người dân " nói chuyện " với nhau như vậy, quyền của cô quan quản lý nhà nước sẽ mất đi. " Tôi cũng có sự nghiệp như đóng chủ " Bộ đặc qui định này đã trở lại tới. Cũng một lúc chúng ta thực hiện hài cố chế của Nhà nước thực hiện thủ đạo thủ tướng và đã làm nảy, vẫn là chuyên " khắc nhà đại họ thỏa thuận với người sử dụng tất ) thì phải tập - ông Trịnh Liên Đình phố giám đốc Sở Tài Nguyên - mới định vị và nhà đại Hà Nội, lên đồng.
+y_true: Chưa kể để doanh nghiệp và người dân " nói chuyện " với nhau như vậy, quyền của cơ quan quản lý nhà nước sẽ mất đi. " Tôi cũng có suy nghĩ như đồng chí " Bỏ được qui định này đi thì tốt. Cùng một lúc chúng ta thực hiện hai cơ chế (vừa Nhà nước thực hiện thu hồi đất như cách làm lâu nay, vừa khuyến khích nhà đầu tư thỏa thuận với người sử dụng đất) thì phức tạp - ông Trịnh Kiên Đĩnh, phó giám đốc Sở Tài nguyên - môi trường và nhà đất Hà Nội, lên tiếng.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Báo với lập trường cần có quan sát cho, Thủ trưởng Đảng thông vô kháng như những hợp nhất đã từ lời cần cho thần thần với người đang nữ dụng đất, đứng ta cần khuyến khích từ Nhà nước đảng nhất có gì cả ". Ông vô "kêu gọi": chúng ta cần thay đổi trong quan điểm, không nên đợi hệ thống hành chính ôn vệ minh nhiên quả, bởi ôm càng nhiều thì sai càng nhiều, Bộ trưởng Mai Aí Trúc tập lại: Các nước đều áp dụng có chế tư hoạ thượng lưu thế hối đất.
+y_true: Bảo vệ lập trường của cơ quan soạn thảo, Thứ trưởng Đặng Hùng Võ khẳng định " trường hợp nhà đầu tư có nhu cầu thỏa thuận với người đang sử dụng đất, chúng ta cần khuyến khích vì Nhà nước chẳng mất cái gì cả ". Ông Võ " kêu gọi " : chúng ta cần thay đổi trong quan điểm, không nên để hệ thống hành chính ôm về mình nhiều quá, bởi ôm càng nhiều thì sai càng nhiều. Bộ trưởng Mai Ái Trực tiếp lời : Các nước đều áp dụng cơ chế tự thỏa thuận khi thu hồi đất.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([8, 100, 1280])
+=====================
+Ngày cà trưng hẹp tư kháng qui đình, người dân và doanh ngữ vẫn thực hiện cố diện này. " Nếu cà trưng lúc hôm chính nhà mặc vệ mẹ thì hình dương cũng, người dân sẽ kêu " - Ông Trúc nói. Chuyên " bò" - " con ". Phó Giám đốc: Số Tài nguyên - mới trường lý thế đặt Hà Nội Trình Kiện Điều để ngày : Hàm quyền thứ bộ: đặt phải đất, đảo thảo trên theo tỉnh thành " ông bò báo trừng ông con ". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đặt thực thâm quyền của UBND cấp quận, huyện (Thay ơi qui đình như huyen này, " ông bò " mưa làm điều này phải thông báo cho ông con " thực hẹn, ưu nhieu khi vừa không thể làm hướng dẫn các tỉnh thực hành dành).
+y_true: Ngay cả trường hợp ta không qui định, người dân và doanh nghiệp vẫn thực hiện cơ chế này. " Nếu cứ dùng quyền lực hành chính nhà nước với mô hình khuôn cứng, người dân sẽ kêu " - ông Trực nói. Chuyện " bố " - " con ". Phó giám đốc Sở Tài nguyên - môi trường & nhà đất Hà Nội Trịnh Kiên Đĩnh đề nghị : thẩm quyền thu hồi đất, giao đất phải được thể hiện theo tinh thần " ông bố bao trùm ông con ". Theo đó, UBND cấp tỉnh, thành phố được quyền thu hồi, giao đất thuộc thẩm quyền của UBND cấp quận, huyện (thay vì qui định như hiện nay, " ông bố " muốn làm điều này phải thông báo cho " ông con " thực hiện, vừa nhiêu khê vừa không thể hiện hướng đi cải cách thủ tục hành chính).
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Lập tổ chức thường Đảng thông văn phòng: "ông bố" có quyền của "ông bố", "ông con" có quyền của "ông con". Lịch không cho phép "ông bố" làm thay "ông con" . Trường hợp nào lành xét, dù có điều kiện này đc ứng con "không làm kiều mà thôi !
+y_true: Lập tức Thứ trưởng Đặng Hùng Võ phản ứng : " ông bố " có quyền của " ông bố ", " ông con " có quyền của " ông con ". Luật không cho phép " ông bố " làm thay " ông con ". Trường hợp nào làm thay là phạm luật, chỉ có điều hiện nay các " ông con " không dám kêu mà thôi!
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+KHÁI QUẬT VỀ BIÊN ĐẢO VIỆT NAM  
+Nước ta gặp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam  
+là một phần biển Đông.  
+Bộ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy có 100 km  
+thì có 1 km bộ biển (trung bình của thế giới là 600 km² đất liền/1 km bộ trên).  
+Biển có vùng nội thụy, lạnh hải, vùng đặc quyển kinh tế và thêm lực dầu vì  
+liên chi phụ trên 1 triệu km ở gặp 3 dải đất liền: 1 triệu km²  
+930.000 km²)
+y_true: KHÁI QUÁT VỀ BIỂN ĐẢO VIỆT NAM Nước ta giáp với biển Đông ở hai phía Đông và Nam. Vùng biển Việt Nam là một phần biển Đông. Bờ biển dài 3.260 km, từ Quảng Ninh đến Kiên Giang. Như vậy cứ 100 km2 thì có 1 km bờ biển (trung bình của thế giới là 600 km2 đất liền / 1 km bờ biển). Biển có vùng nội thủy, lãnh hải, vùng đặc quyền kinh tế và thềm lục địa với diện tích trên 1 triệu km2 (gấp 3 diện tích đất liền : 1 triệu km2 / 330.000 km2)
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Trong đó có 2 quần tạo hoàng Sa, Trường Sa và 2.577 tấn lớn, nhỏ, gần và xa bờ, hộp thành phong tuyến bảo vệ, kiểm soát và bàn chủ rừng biển.  
+Có vị thứ chiến lược quan trọng: nói liên Chí Bình Dương và Anh Dương, cháu A với cháu Anh, cháu Võ Või Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành bảo trì.  
+Có khi hầu biên là vùng nhiệt độ tạo điều kiện cho sinh vật biển phát triển, tôn tài tốt.
+y_true: Trong đó có 2 quần đảo Hoàng Sa, Trường Sa và 2.577 đảo lớn, nhỏ, gần và xa bờ, hợp thành phòng tuyến bảo vệ, kiểm soát và làm chủ vùng biển. Có vị trí chiến lược quan trọng : nối liền Thái Bình Dương với Ấn Độ Dương, châu Á với châu Âu, châu Úc với Trung Đông. Giao lưu quốc tế thuận lợi, phát triển ngành biển. Có khí hậu biển là vùng nhiệt đới tạo điều kiện cho sinh vật biển phát triển, tồn tại tốt.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Có tài nguyên sinh vật và khoảng sân phong phủ, đa dạng, quy hẹn. Vùng biển và hải đảo mỗi tà cơ vị thứ chiến lược một số tổ lớn, có ảnh hưởng trào tập đến và nghiệp bào vệ niên đào lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan tới tập đến gỗ phù vinh của đất nước, đến văn minh và hành phục của mình dân.
+y_true: Có tài nguyên sinh vật và khoáng sản phong phú, đa dạng, quý hiếm. Vùng biển và hải đảo nước ta có vị trí chiến lược hết sức to lớn, có ảnh hưởng trực tiếp đến sự nghiệp bảo vệ nền độc lập dân tộc và xây dựng chủ nghĩa xã hội, có liên quan trực tiếp đến sự phồn vinh của đất nước, đến văn minh và hạnh phúc của nhân dân.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Chương trình hành dông thực hiện Nghị quyết trung ương 9 - khoa IX của Đảng bộ TP. HCTP Về xây dựng Đảng: tiếp tục chỉ đạo mạnh mẽ, cố nhiều quả cuộc vận động xây dựng chính tối Đảng đạo trình đấu nghị: quyết trung ương 6 (lần 2). Theo đó, tiếp tục thực hiện việc tăng cường thanh niên tra nhúng nối cố đầu hiệu vì phạm, đặc biệt trong lĩnh vực đất đai và các công trình trong đại viện.
+y_true: Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa IX của Đảng bộ TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cuộc vận động xây dựng chỉnh đốn Đảng theo tinh thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục thực hiện việc kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công chức; tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt trong lĩnh vực đất đai và các công trình trọng điểm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Xí lý nghiem minh thu pháp luật và lý luật của Đảng nhúng người có hành vi sai trái và nhúng người bao che. Thực hiện tốt cái quy định từ với cán bộ lành đạo, quan lý đi xây ra ham nhúng, tiêu cực 3 cơ quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức c8 số Đảng. Tiếp tục đối với và nâng cao công tác cán bộ. Tiếp tục tới, mỗi phương thức lành đạo của cấp ủy Đảng theo phường châm hướng manh về c8 số.
+y_true: Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người có hành vi sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức cơ sở Đảng. Tiếp tục đổi mới và nâng cao công tác cán bộ. Tiếp tục đổi mới phương thức lãnh đạo của cấp ủy Đảng theo phương châm hướng mạnh về cơ sở.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Về cái cách hành chính: Tập trung chân chính mạnh hơn mùa hội cương hạ luật trong bộ máy hành chính, nâng cao tính thân thách nhiệm và ý thức huy luật của CĐ - CC, nhật là trên lĩnh vực nhà đất, đầu tư, mình doanh, trật tự cày đứng và giải quyết thiếu mại, tế cáo. Xây dựng, hoàn thiện hệ thống các quy trình thủ tục hành chính. Kiên, quyết chân chính bộ máy hành chính của cấp, mạnh chống nhà phục tinh trọng quan liêu, của quyền, thách đốt.
+y_true: Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương, kỷ luật trong bộ máy hành chính, nâng cao tinh thần trách nhiệm và ý thức kỷ luật của CB - CC, nhất là trên lĩnh vực nhà đất, đầu tư, kinh doanh, trật tự xây dựng và giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các qui trình thủ tục hành chính. Kiên quyết chấn chỉnh bộ máy hành chính các cấp, nhanh chóng khắc phục tình trạng quan liêu, cửa quyền, hách dịch.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Xây dựng và phát triển tiện ích CB-CC có chất lượng chuyên môn cao, có phạm chất, đạo đức. Kiêm tra, xử lý biến quyết các ưu đãi như những lành mạnh phí, làm chất đốt tài sản nhà nước... Về hình tế: Tập trung mới mỗi lúc nhằm đào gỗ sản xuất như doanh, tài tức tòa tăng trưởng GDP trên địa bàn TP đạt 16% năm, 2004 và triển lãi năm 2005. Đất trên mạnh các ngành dịch vụ ngành công nghiệp.
+y_true: Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn cao, có phẩm chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ tham nhũng, lãng phí, làm thất thoát tài sản nhà nước... Về kinh tế : Tập trung mọi nỗ lực nhằm tháo gỡ sản xuất kinh doanh, đưa tốc độ tăng trưởng GDP trên địa bàn TP đạt 12% năm 2004 và trên 12% năm 2005. Phát triển nhanh các ngành dịch vụ, tái cấu trúc các ngành công nghiệp.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Tiếp tục nhận rộng, các mỏ hình huy động vốn đầu tư. Tập trung khảo 
+thuật các nguồn vốn, cho ngân sách. Tổng kết quả trình cổ phần hạ 
+doanh nghiệp nhà nước và việc tổ chức tập xếp lại doanh nghiệp nhà 
+nước. Trên khai quyết định của TP về một số chính sách vừa đầu 
+tư vốn các dự án có vốn đầu tư nước ngoài. Ra sát Lại, chương 
+trình hội nhập hình tế của TP. Về văn hóa - xã hội: đây mang 
+các hộ giao dục - đào tạo.
+y_true: Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai thác các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước. Triển khai quyết định của TP về một số chính sách ưu đãi đối với các dự án có vốn đầu tư nước ngoài. Rà soát lại chương trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh xã hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân sách cho giáo dục - đào tạo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([5, 100, 1280])
+=====================
+Nàng cao nàng lâu quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ văn hóa; khác phục những số hộ, tiêu cứu công quản lý và hoạt động văn hóa. Tiếp tục tập trung người liên cho chúng tình 9 giảm...
+y_true: Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý và hoạt động văn hóa. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+BẢN CHẤT CỦA THÀNH CÔNG 
+y_true: BẢN CHẤT CỦA THÀNH CÔNG Đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? Phải chăng đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? Hay đó là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục? Vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm. Cuộc sống sẽ chỉ cho bạn có những người thành đạt được thành công theo một cách giản dị đến bất ngờ
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Thành công 18 khu bảo vệ con trai có dùng khả biểu rao bạp, nấu những món ăn me-thích nhân ngày 8-3. Mỗi canh có thể hít mẫn, mở cột đăng lệ phải có mua đã rất lâu ngà sang mua ... đến chạy. Những nhân môn còn, me vẫn cất: gửi văn bản con không thể thành công trên "chiến trường" bóp nức, nhúng lại thành công khi tăng me đã từng của tình yêu. Một mỗi ngày ủy nhận hồn cả những món gì yêu gì, hành phục ấy lòng lạnh in trọng một me.
+y_true: Thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món ăn mẹ thích nhân ngày 8 - 3. Món canh có thể hơi mặn, món cá sốt đáng lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. Nhưng nhìn mâm cơm, mẹ vẫn cười. Bởi vì hai bố con không thể thành công trên " chiến trường " bếp núc, nhưng lại thành công khi tặng mẹ " đoá hồng " của tình yêu. Một món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh in trong mắt mẹ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Thanh cũng còn là hình ảnh một câu bố bị đề tất ố chán, không bao giờ đi lại bình thường như. Từ nhờ câu ố nữ liệu mẹ trở thành câu thứ bóng đá. Sau bao nỗ lực khổ luỹ, câu bố trở thành câu thứ dù bị trong một đời bóng nhà, nó chưa bao giờ đắc chính thức ra sân. Những đời không phải là thật bại. Trải lại, thành công ố nữ họ lại câu kêu nói, với báo ngợi lúc và ngợi tâm, ố quần thắng hoàn cảnh để theo dõi mẹ từ ngày thế hệ.
+y_true: Thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại bình thường được. Từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. Sau bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân. Nhưng đó không phải là thất bại. Trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ ngày thơ bé.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Thanh công ấy, liệu có mấy người đặt đầu tư?  
+Sau mỗi món thị tẩu lên, có bao "3 tỉ" bốn nếu khi bật mình từ đó thành "3 tỉ". Hai bay đón,  
+còn thật đầy. Nhưng cao mà bạn gì khi NVL lấy từ hai bay phải nên từ đó thật ra không phải.  
+là thật bại, chứ là khi thành công - bị - trì - hoàn mà thôi. Cực sợi vẫn được đón hơi vì:  
+NVL2, NVL3. Quan trọng hơi đó nỗ lực hết sức để khẳng định mình. Tốt lý nghĩa vụ nguyên  
+của các ký tự thì, và cũng là bản chất của thành công.
+y_true: Thành công ấy, liệu có mấy người đạt được? Sau mỗi mùa thi đại học, có bao " sĩ tử " buồn rầu khi biết mình trở thành " sĩ tử ". Hai bảy điểm, cao thật đấy. Nhưng cao mà làm gì khi NV1 lấy tới hai bảy phẩy năm? Đó thật ra không phải là thất bại, chỉ là khi thành công - bị - trì - hoãn mà thôi. Cuộc sống vẫn chào đón họ với NV2, NV3. Quan trọng là họ đã nỗ lực hết sức để khẳng định mình. Đó là ý nghĩa vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Chương trình hành động thức hiện Nghị quyết trung ương 9 - thời 1x của Đảng bộ. Đảng: tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cứu vấn đảng ủy, đảng chính đơn Đảng theo tinh thần nghị quyết trung ương 6 (1 2). Theo đó, tập trung nhắc lại việc kế hoạch đối với các cấp chính đối với phạm, đặc biệt đối với các cấp chính đối với phạm, đặc biết đối với các cấp chính đối với phạm, đặc biểu đối với các cấp chính đối với phạm, đặc biện đối với các cấp chính đối với phạm, đặc biến đối với các cấp chính đối với phạm, đặc biệc đối với các cấp chính đối với phạm, đặc biệu đối với các cấp chính đối với phạm, đặc biếc đối với các cấp chính đối với phạm, đặc bịc đối với các cấp chính đối với phạm, đặc cịc đối với các cấp chính đối với phạm, đắc cịc đối với các cấp chính đối với phạm, dắc cịc đối với các cấp chính đối với phạm.
+y_true: Chương trình hành động thực hiện Nghị quyết trung ương 9 - khóa IX của Đảng bộ TP.HCM Về xây dựng Đảng : tiếp tục chỉ đạo mạnh mẽ, có hiệu quả cuộc vận động xây dựng chỉnh đốn Đảng theo tinh thần nghị quyết trung ương 6 (lần 2). Theo đó, tiếp tục thực hiện việc kê khai nhà đất và cơ sở sản xuất kinh doanh của cán bộ - công chức; tăng cường thanh kiểm tra những nơi có dấu hiệu vi phạm, đặc biệt trong lĩnh vực đất đai và các công trình trọng điểm.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Xú lý nghiệm mình theo pháp luật và kỷ luật của Đảng những người có hạn vị sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ Lâm Đạo, quản lý đất xây ra tham nhũng, tiêu cực ở cơ quan, đơn gi: Kiện đoàn vì tăng cường sức chiến đấu của tổ chức có số Đảng. Tiếp tục tối mẫu văn này cao công tác cán bộ. Tiếp tục tốt phường thực lành tạo củ cấp ủy Đảng theo phường chạm hướng mạnh về cơ sở.
+y_true: Xử lý nghiêm minh theo pháp luật và kỷ luật của Đảng những người có hành vi sai trái và những người bao che. Thực hiện tốt các quy định đối với cán bộ lãnh đạo, quản lý để xảy ra tham nhũng, tiêu cực ở cơ quan, đơn vị. Kiện toàn và tăng cường sức chiến đấu của tổ chức cơ sở Đảng. Tiếp tục đổi mới và nâng cao công tác cán bộ. Tiếp tục đổi mới phương thức lãnh đạo của cấp ủy Đảng theo phương châm hướng mạnh về cơ sở.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([4, 100, 1280])
+=====================
+Về cơ cấp hành chính: Tập trung chân chính mạc hơn nữa tự công, bị xuất trong bộ máy hành chính, nâng cao tình hình trách nhiệm của ý thức ký hiệu của BCE nhà là trên lĩnh vực nhà đầu, đầu tư, khu doanh, trái tại xây dựng của đảng giai quyền khiêu nói, tổ cáo. Xây dựng hoàn thiện hệ thống các quy trình thủ tục hành chính, kiên quyền chính bộ máy hành chính các cấp nhân chính, thực phục tình trạng quan liệu, của quyền, hách dài.
+y_true: Về cải cách hành chính : Tập trung chấn chỉnh mạnh hơn nữa kỷ cương, kỷ luật trong bộ máy hành chính, nâng cao tinh thần trách nhiệm và ý thức kỷ luật của CB - CC, nhất là trên lĩnh vực nhà đất, đầu tư, kinh doanh, trật tự xây dựng và giải quyết khiếu nại, tố cáo. Xây dựng hoàn thiện hệ thống các qui trình thủ tục hành chính. Kiên quyết chấn chỉnh bộ máy hành chính các cấp, nhanh chóng khắc phục tình trạng quan liêu, cửa quyền, hách dịch.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Xây dựng và phát triển đối với CB-CĐ có chất lượng chuyên môn cao, có phẩm chất, đào dục kiểm tra, xử lý kịp quyết các tốt tham nhũng, lấy phí làm thất thoát tài sản nhà nước.... Về kinh tế: tập trung mở nỗ lực nhằm tháo gỡ sản xuất bản đồ, đầu tạo đòi tăng trưởng GDP trên địa bàn TP đạt 12,2 năm 2004 và trên 12,2 năm 2005. Phát triển hàng cảng ngành dịch vụ, tài cơ trực các ngân công nghiệp.
+y_true: Xây dựng và phát triển đội ngũ CB - CC có chất lượng chuyên môn cao, có phẩm chất, đạo đức. Kiểm tra, xử lý kiên quyết các vụ tham nhũng, lãng phí, làm thất thoát tài sản nhà nước... Về kinh tế : Tập trung mọi nỗ lực nhằm tháo gỡ sản xuất kinh doanh, đưa tốc độ tăng trưởng GDP trên địa bàn TP đạt 12% năm 2004 và trên 12% năm 2005. Phát triển nhanh các ngành dịch vụ, tái cấu trúc các ngành công nghiệp.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+Tiếp tục nhận rộng các mô hình. Huy động vốn đầu tư. Tập trung khai thác các nguồn vốn cho ngân sách. Tổng kết quả triển cổ phần hóa doanh nghiệp nhà nước và việc tổ chức sáp xếp hội doanh nghiệp nhà nước. Triển khai quyết định của TP về môi sở định sách du lịch và đường cấp dự án có vốn đầu tư nước ngoại. Ra sách lại các chứng trần hội nhập kiến tế của TP về văn hoá - xã hội; đẩy mạnh xã hội hóa, phát triển xã hội học tập, lưu tiện đầu tư ngân sách cho giao dục - đào tạo.
+y_true: Tiếp tục nhân rộng các mô hình huy động vốn đầu tư. Tập trung khai thác các nguồn vốn cho ngân sách. Tổng kết quá trình cổ phần hóa doanh nghiệp nhà nước và việc tổ chức sắp xếp lại doanh nghiệp nhà nước. Triển khai quyết định của TP về một số chính sách ưu đãi đối với các dự án có vốn đầu tư nước ngoài. Rà soát lại chương trình hội nhập kinh tế của TP. Về văn hóa - xã hội : đẩy mạnh xã hội hóa, phát triển xã hội học tập, ưu tiên đầu tư ngân sách cho giáo dục - đào tạo.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([6, 100, 1280])
+=====================
+Nàng cao nóng lúc quán lý nhà nước trên các hãi ước bình dânch vụ văn hoá 1. Khác phục những số hộ 1. Hầu cực trong quán lý và hoạt động văn hoá 1. Tiếp tục tập trung nguồn lực cho những trần 3 giảm ...
+y_true: Nâng cao năng lực quản lý nhà nước trên các lĩnh vực kinh doanh dịch vụ văn hóa; khắc phục những sơ hở, tiêu cực trong quản lý và hoạt động văn hóa. Tiếp tục tập trung nguồn lực cho chương trình 3 giảm...
+Với 
+y_true: Viết
+tưởng 
+y_true: tiếp
+về 
+y_true: về
+wu 
+y_true: vụ
+cảnh 
+y_true: anh
+mưa 
+y_true: Trương
+Xhơn 
+y_true: Xuân
+thực 
+y_true: Đại
+Ngày 
+y_true: Ngay
+thứ 
+y_true: từ
+như 
+y_true: khi
+tố 
+y_true: tờ
+bảo 
+y_true: báo
+Số 
+y_true: Số
+nhân 
+y_true: phận
+của 
+y_true: của
+những
+y_true: những
+người 
+y_true: người
+nhờ 
+y_true: nói
+bên 
+y_true: lên
+Dự 
+y_true: sự
+thật 
+y_true: thật
+nhất 
+y_true: phát
+hành 
+y_true: hành
+nhân 
+y_true: nhiều
+đơn 
+y_true: bạn
+đặc 
+y_true: đọc
+đã 
+y_true: đã
+bay 
+y_true: bày
+để 
+y_true: tỏ
+nữ
+y_true: sự
+của 
+y_true: chia
+để 
+y_true: sẻ
+ung 
+y_true: ủng
+hệ 
+y_true: hộ
+cảnh 
+y_true: anh
+Thương 
+y_true: Trương
+Xuan 
+y_true: Xuân
+đã 
+y_true: Đại
+mặt 
+y_true: Một
+làm 
+y_true: bạn
+đặc 
+y_true: đọc
+6 
+y_true: 67
+thành 
+y_true: tuổi
+về 
+y_true: ở
+6 
+y_true: Q
+4 
+y_true: 11
+điện 
+y_true: đến
+định 
+y_true: gửi
+thông 
+y_true: tặng
+anh 
+y_true: anh
+-luận 
+y_true: Trương
+Xinđơn 
+y_true: Xuân
+độ 
+y_true: Đại
+150
+y_true: 150
+000
+y_true: 000
+định 
+y_true: đồng
+mới 
+y_true: một
+là 
+y_true: cô
+gần 
+y_true: gái
+tên 
+y_true: tên
+những 
+y_true: Nhung
+để 
+y_true: ở
+Tìm 
+y_true: Tân
+Bình 
+y_true: Bình
+của 
+y_true: gửi
+bằng 
+y_true: tặng
+10s
+y_true: 100
+độc 
+y_true: 000
+c
+y_true: đ
+một 
+y_true: một
+thành 
+y_true: thanh
+nhơn 
+y_true: niên
+tên 
+y_true: tên
+Hà 
+y_true: Hà
+đến 
+y_true: đến
+đơn 
+y_true: gửi
+2 0 
+y_true: 200
+Số 
+y_true: 000
+có 
+y_true: đ
+Sài 
+y_true: Sau
+độ 
+y_true: đó
+nhưng 
+y_true: nữa
+là 
+y_true: là
+bài 
+y_true: rất
+những 
+y_true: nhiều
+kinh 
+y_true: bạn
+được 
+y_true: đọc
+độc 
+y_true: gọi
+đêm 
+y_true: đến
+bảy 
+y_true: bày
+độ 
+y_true: tỏ
+nữ 
+y_true: sự
+chỉ 
+y_true: chia
+nê 
+y_true: sẻ
+cùng 
+y_true: ủng
+hội 
+y_true: hộ
+Bạn 
+y_true: Ban
+hành 
+y_true: biên
+tay 
+y_true: tập
+báo 
+y_true: báo
+đầu 
+y_true: Tuổi
+vụ 
+y_true: Trẻ
+cùng 
+y_true: cũng
+giu ước 
+y_true: quyết
+định 
+y_true: định
+đầu 
+y_true: gửi
+bằng 
+y_true: tặng
+nhằm 
+y_true: nhóm
+ông 
+y_true: công
+nhận 
+y_true: nhân
+ng 
+y_true: đã
+tố 
+y_true: tố
+bộ 
+y_true: cáo
+thành 
+y_true: tiêu
+các 
+y_true: cực
+để 
+y_true: ở
+đường 
+y_true: đường
+lên 
+y_true: liên
+vốn 
+y_true: cảng
+45 
+y_true: A5
+10 
+y_true: 10
+tính 
+y_true: triệu
+đồng 
+y_true: đồng
+đánh 
+y_true: Đừng
+để 
+y_true: để
+nhóm 
+y_true: người
+đây 
+y_true: dân
+đặc 
+y_true: đặt
+cứu 
+y_true: cược
+cho 
+y_true: cho
+miễn 
+y_true: niềm
+tình 
+y_true: tin
+của 
+y_true: Qua
+bảo 
+y_true: báo
+cần 
+y_true: chí
+bạn 
+y_true: bản
+thành 
+y_true: thân
+lấy 
+y_true: tôi
+đã 
+y_true: đã
+Chỉ 
+y_true: biết
+lên 
+y_true: về
+vắc 
+y_true: việc
+4 
+y_true: tố
+dãn 
+y_true: sai
+mình 
+y_true: phạm
+của 
+y_true: của
+chỉ 
+y_true: công
+mình 
+y_true: rình
+định 
+y_true: đường
+cùng 
+y_true: liên
+công 
+y_true: cảng
+15 
+y_true: A5
+mày 
+y_true: mấy
+thành 
+y_true: năm
+Lưng 
+y_true: trước
+cây 
+y_true: đây
+những 
+y_true: nhưng
+nếu 
+y_true: nay
+máy 
+y_true: mới
+nưcơ 
+y_true: biết
+nước 
+y_true: việc
+bạn 
+y_true: làm
+chứng 
+y_true: dũng
+bạn 
+y_true: cảm
+và 
+y_true: và
+đã 
+y_true: đã
+mình 
+y_true: mang
+công 
+y_true: đến
+báo 
+y_true: bao
+như 
+y_true: hệ
+Lưu 
+y_true: lụy
+Hành 
+y_true: phiền
+lược 
+y_true: phức
+vào 
+y_true: cho
+người 
+y_true: người
+thông 
+y_true: trong
+nói 
+y_true: cuộc
+những 
+y_true: những
+nghĩa 
+y_true: người
+lấy 
+y_true: mà
+được 
+y_true: theo
+- lấy 
+y_true: tôi
+và 
+y_true: vô
+cây 
+y_true: cùng
+thấy 
+y_true: xứng
+ấy 
+y_true: đáng
+và 
+y_true: với
+định 
+y_true: danh
+hình 
+y_true: hiệu
+thông 
+y_true: hiệp
+19 
+y_true: sĩ
+thức 
+y_true: Thế
+những 
+y_true: nhưng
+những 
+y_true: những
+linh 
+y_true: hiệp
+nà 
+y_true: sĩ
+cây 
+y_true: ấy
+của 
+y_true: giờ
+14 
+y_true: ra
+này 
+y_true: sao
+Người 
+y_true: Người
+tính 
+y_true: thì
+lợi 
+y_true: lang
+thành 
+y_true: thang
+trình 
+y_true: phiêu
+bắt 
+y_true: bạt
+lực 
+y_true: kẻ
+điều 
+y_true: thì
+và có 
+y_true: vợ
+hộ 
+y_true: bỏ
+hã
+y_true: kẻ
+tất 
+y_true: thì
+cây 
+y_true: cày
+và 
+y_true: ải
+thủy 
+y_true: trên
+Lý 
+y_true: con
+chứng 
+y_true: đường
+đã 
+y_true: đô
+thì.
+y_true: thị
+đã 
+y_true: để
+Lương
+y_true: lượm
+là 
+y_true: ve
+chứa 
+y_true: chai
+như 
+y_true: phải
+tất 
+y_true: tá
+mắc 
+y_true: túc
+từ 
+y_true: trong
+những 
+y_true: những
+còn 
+y_true: căn
+đã 
+y_true: chòi
+động 
+y_true: tạm
+bị 
+y_true: bợ
+này 
+y_true: sống
+gần 
+y_true: qua
+hãy 
+y_true: ngày
+này 
+y_true: Ngẫm
+này 
+y_true: sao
+mới 
+y_true: mà
+tháng 
+y_true: thương
+thể 
+y_true: thế
+đây 
+y_true: Đáng
+là 
+y_true: lẽ
+định 
+y_true: phải
+cùng 
+y_true: được
+thị
+y_true: tôn
+Vành 
+y_true: vinh
+thì 
+y_true: thì
+thứ 
+y_true: trái
+bị 
+y_true: lại
+những 
+y_true: những
+bị 
+y_true: con
+những 
+y_true: người
+cây 
+y_true: ấy
+lấy 
+y_true: đã
+5 
+y_true: bị
+cây 
+y_true: đẩy
+Những 
+y_true: xuống
+đây 
+y_true: đáy
+vốn 
+y_true: cùng
+chỉ 
+y_true: của
+và 
+y_true: cuộc
+đồng 
+y_true: sống
+cùng 
+y_true: Cũng
+mấy 
+y_true: may
+mà 
+y_true: mà
+cạnh 
+y_true: anh
+đơn 
+y_true: Đại
+đã 
+y_true: đã
+thành 
+y_true: thắng
+thông 
+y_true: kiện
+với 
+y_true: đó
+nhắc 
+y_true: chắc
+là 
+y_true: là
+niệm 
+y_true: niềm
+an 
+y_true: an
+và 
+y_true: ủi
+với 
+y_true: và
+là 
+y_true: là
+những 
+y_true: khẳng
+định 
+y_true: định
+đi 
+y_true: để
+anh 
+y_true: anh
+anh 
+y_true: và
+các 
+y_true: các
+đến 
+y_true: đồng
+nghị 
+y_true: nghiệp
+ngành 
+y_true: người
+thành 
+y_true: thân
+tới 
+y_true: tin
+bóng 
+y_true: rằng
+đã 
+y_true: các
+amnh 
+y_true: anh
+hình 
+y_true: không
+hành 
+y_true: đơn
+đặc 
+y_true: độc
+thị 
+y_true: trong
+với 
+y_true: việc
+dịch vụ 
+y_true: niềm
+tìm 
+y_true: tin
+nữ 
+y_true: về
+là 
+y_true: lẽ
+phẩm 
+y_true: phải
+công 
+y_true: của
+mình 
+y_true: mình
+Lưu 
+y_true: Lại
+mưa 
+y_true: nữa
+như 
+y_true: khi
+thành 
+y_true: thanh
+tà 
+y_true: tra
+đã 
+y_true: đã
+xác 
+y_true: xác
+định 
+y_true: định
+làm 
+y_true: sai
+những 
+y_true: phạm
+lớp 
+y_true: sao
+nhận 
+y_true: không
+vụ 
+y_true: xử
+lý 
+y_true: lý
+mà 
+y_true: mà
+đã 
+y_true: để
+những 
+y_true: ngâm
+làm 
+y_true: lâu
+này 
+y_true: ngày
+điện 
+y_true: đến
+cây 
+y_true: vậy
+làn 
+y_true: Tôi
+hình 
+y_true: không
+vẫn 
+y_true: phải
+là 
+y_true: là
+nhóm 
+y_true: người
+tận 
+y_true: trong
+hình 
+y_true: lĩnh
+nước 
+y_true: vực
+chứng 
+y_true: chuyên
+nhận 
+y_true: môn
+có 
+y_true: có
+dựa 
+y_true: thể
+mình 
+y_true: hình
+dựng 
+y_true: dung
+công 
+y_true: công
+mình 
+y_true: trình
+dùng 
+y_true: đường
+liêm 
+y_true: liên
+cảnh 
+y_true: cảng
+4 
+y_true: A5
+chắc 
+y_true: chắc
+nhóm 
+y_true: nhằm
+nhận 
+y_true: phục
+làm 
+y_true: vụ
+hàng 
+y_true: hoạt
+định 
+y_true: động
+cùng 
+y_true: của
+để 
+y_true: các
+như 
+y_true: nhà
+dm 
+y_true: đầu
+là 
+y_true: tư
+tình 
+y_true: trong
+fần 
+y_true: Khu
+tìm 
+y_true: Tân
+-thành 
+y_true: Thuận
+với 
+y_true: Vậy
+tìm 
+y_true: thì
+hướng 
+y_true: không
+nhất 
+y_true: khắc
+thực 
+y_true: phục
+yên 
+y_true: ngay
+mà 
+y_true: mà
+vốn 
+y_true: còn
+các 
+y_true: để
+còn 
+y_true: con
+thành 
+y_true: đường
+xem 
+y_true: xuống
+và 
+y_true: cấp
+thứ 
+y_true: thê
+-thành 
+y_true: thảm
+định 
+y_true: góp
+thông 
+y_true: thêm
+nhận 
+y_true: phần
+bộm
+y_true: làm
+xinh 
+y_true: xấu
+đi 
+y_true: đi
+mà 
+y_true: môi
+tính 
+y_true: trường
+đã 
+y_true: đầu
+tốc 
+y_true: tư
+chủ 
+y_true: của
+đánh 
+y_true: thành
+nhỏ 
+y_true: phố
+hợi 
+y_true: hay
+hình 
+y_true: không
+nữ 
+y_true: và
+cùng 
+y_true: cũng
+lấy 
+y_true: đồng
+nhận 
+y_true: nghĩa
+vốn 
+y_true: với
+vàc 
+y_true: việc
+mới 
+y_true: mất
+đi 
+y_true: đi
+bảo 
+y_true: bao
+những 
+y_true: nhiêu
+đi 
+y_true: cơ
+hạn 
+y_true: hội
+lớn 
+y_true: làm
+vắc 
+y_true: việc
+vào 
+y_true: và
+là 
+y_true: cải
+điểm 
+y_true: thiện
+các 
+y_true: cuộc
+dự 
+y_true: sống
+của 
+y_true: của
+nghĩa 
+y_true: người
+lý 
+y_true: lao
+với 
+y_true: động
+đồng 
+y_true: đồng
+bộ 
+y_true: bào
+hãy 
+y_true: hay
+hình 
+y_true: không
+chứng 
+y_true: Chúng
+4 
+y_true: ta
+hợp 
+y_true: hoan
+nhiên 
+y_true: nghênh
+và 
+y_true: và
+hơn 
+y_true: biểu
+chỉnh 
+y_true: dương
+những 
+y_true: những
+vấc 
+y_true: việc
+4 
+y_true: làm
+- là 
+y_true: tốt
+của 
+y_true: của
+với 
+y_true: công
+như 
+y_true: nhân
+xây 
+y_true: xây
+định 
+y_true: dựng
+thị 
+y_true: trong
+với 
+y_true: việc
+tầm 
+y_true: thông
+văn 
+y_true: tin
+điều 
+y_true: phản
+cây 
+y_true: ánh
+đán 
+y_true: sai
+thành 
+y_true: phạm
+của 
+y_true: của
+với 
+y_true: công
+tính 
+y_true: trình
+dùng 
+y_true: đường
+hình 
+y_true: liên
+long 
+y_true: cảng
+n5 
+y_true: A5
+những 
+y_true: nhưng
+với 
+y_true: chắc
+là 
+y_true: là
+những 
+y_true: không
+do 
+y_true: có
+lành 
+y_true: hình
+Văn 
+y_true: thức
+hội 
+y_true: hoan
+nghiên 
+y_true: nghênh
+và 
+y_true: và
+đang 
+y_true: biểu
+dành 
+y_true: dương
+chỉ 
+y_true: thiết
+thực 
+y_true: thực
+hơn 
+y_true: hơn
+văn 
+y_true: với
+dựu 
+y_true: anh
+đã 
+y_true: Đại
+và 
+y_true: và
+những 
+y_true: những
+đã 
+y_true: đồng
+những 
+y_true: nghiệp
+là 
+y_true: là
+xử 
+y_true: xử
+lý 
+y_true: lý
+huy 
+y_true: ngay
+những 
+y_true: những
+làm 
+y_true: sai
+thành 
+y_true: phạm
+đã 
+y_true: đã
+là 
+y_true: rõ
+những 
+y_true: mười
+những 
+y_true: mươi
+và 
+y_true: và
+là 
+y_true: có
+viện 
+y_true: biện
+thành 
+y_true: pháp
+nhận 
+y_true: hữu
+hình 
+y_true: hiệu
+hàng 
+y_true: khắc
+liên 
+y_true: phục
+những 
+y_true: những
+lên 
+y_true: sai
+Lưu 
+y_true: phạm
+để 
+y_true: đó
+do 
+y_true: Có
+như 
+y_true: như
+vậy 
+y_true: vậy
+những 
+y_true: niềm
+4n 
+y_true: tin
+vào 
+y_true: vào
+đi 
+y_true: lẽ
+lấy 
+y_true: phải
+như 
+y_true: mới
+để 
+y_true: được
+lịch 
+y_true: khôi
+phải 
+y_true: phục
+và 
+y_true: và
+ngành 
+y_true: người
+đơn 
+y_true: dân
+thị 
+y_true: sẽ
+hành 
+y_true: không
+còn 
+y_true: còn
+như 
+y_true: phải
+đã 
+y_true: đặt
+anh 
+y_true: cược
+với 
+y_true: cho
+tìm 
+y_true: niềm
+lên 
+y_true: tin
+như 
+y_true: của
+mất 
+y_true: mình
+Phạm 
+y_true: Phải
+nk 
+y_true: là
+mới 
+y_true: một
+và 
+y_true: câu
+chứng 
+y_true: chuyện
+thị 
+y_true: đàng
+hướng 
+y_true: hoàng
+hành 
+y_true: Nhóm
+đã 
+y_true: công
+nhận 
+y_true: nhân
+chính 
+y_true: dũng
+với 
+y_true: cảm
+này 
+y_true: ấy
+đây 
+y_true: gồm
+có 
+y_true: 20
+nhất 
+y_true: người
+vậy 
+y_true: vậy
+mã 
+y_true: mà
+hình 
+y_true: hầu
+như 
+y_true: như
+hãy 
+y_true: nay
+và 
+y_true: đã
+lý 
+y_true: lang
+này 
+y_true: bạt
+vẫn 
+y_true: Chỉ
+Lấy 
+y_true: còn
+như 
+y_true: anh
+đã 
+y_true: Đại
+và 
+y_true: và
+đây 
+y_true: bốn
+những 
+y_true: người
+thị 
+y_true: khác
+thành 
+y_true: Thân
+bằng 
+y_true: phận
+mặc 
+y_true: cuộc
+2một 
+y_true: sống
+lớn 
+y_true: của
+nhờ 
+y_true: họ
+mu 
+y_true: bi
+đã 
+y_true: và
+điểm 
+y_true: điều
+minh 
+y_true: mỉa
+như 
+y_true: mai
+cùng 
+y_true: cũng
+như 
+y_true: như
+làm 
+y_true: làm
+chính 
+y_true: chạnh
+Lĩnh 
+y_true: lòng
+- lập 
+y_true: tôi
+là 
+y_true: là
+thứ 
+y_true: phải
+4 
+y_true: họ
+vẫn 
+y_true: đã
+xã 
+y_true: xả
+thứ 
+y_true: thân
+nà 
+y_true: vì
+Lý 
+y_true: đại
+nhận 
+y_true: nghĩa
+đi 
+y_true: để
+với 
+y_true: rồi
+là 
+y_true: gia
+lưu 
+y_true: đình
+với 
+y_true: vợ
+còn 
+y_true: con
+vì 
+y_true: ly
+bộ 
+y_true: tán
+thái 
+y_true: thất
+nghị 
+y_true: nghiệp
+bỏ 
+y_true: lâm
+vốn 
+y_true: vào
+công 
+y_true: cảnh
+đã 
+y_true: đời
+lên 
+y_true: tan
+nhất 
+y_true: nát
+như 
+y_true: như
+đến 
+y_true: thế
+nó
+y_true: sao
+Lì 
+y_true: Vì
+lộ 
+y_true: sao
+là 
+y_true: họ
+nó
+y_true: đã
+lớn 
+y_true: làm
+dự án 
+y_true: điều
+và 
+y_true: đó
+Bất 
+y_true: Ba
+dành 
+y_true: năm
+lên 
+y_true: trôi
+làm 
+y_true: qua
+được 
+y_true: chắc
+bạn 
+y_true: hẳn
+đã 
+y_true: đã
+Hình 
+y_true: hàng
+thêm 
+y_true: trăm
+những 
+y_true: ngàn
+Lấy 
+y_true: lần
+còn 
+y_true: câu
+khoa 
+y_true: hỏi
+đi 
+y_true: đó
+là 
+y_true: tự
+công 
+y_true: đến
+được 
+y_true: với
+như 
+y_true: họ
+hạn t
+y_true: hoặc
+đầu 
+y_true: đến
+và 
+y_true: từ
+thực 
+y_true: người
+đám 
+y_true: thân
+bạn 
+y_true: bạn
+để 
+y_true: bè
+đã 
+y_true: đi
+hơn 
+y_true: kèm
+nê 
+y_true: sự
+công 
+y_true: chua
+chính 
+y_true: chát
+nhóm 
+y_true: ngậm
+nghị 
+y_true: ngùi
+và 
+y_true: Và
+hành 
+y_true: hôm
+này 
+y_true: nay
+định 
+y_true: chúng
+4 
+y_true: ta
+cùng 
+y_true: cũng
+còn 
+y_true: cần
+hơn 
+y_true: hỏi
+vàn 
+y_true: câu
+hạn 
+y_true: hỏi
+huy 
+y_true: này
+vật 
+y_true: với
+chính 
+y_true: chính
+những 
+y_true: mình
+thứ 
+y_true: Thứ
+thường 
+y_true: trưởng
+Bộ 
+y_true: Bộ
+tác 
+y_true: Tài
+nguyên 
+y_true: nguyên
+mới 
+y_true: môi
+thường 
+y_true: trường
+đang 
+y_true: Đặng
+Hùng 
+y_true: Hùng
+với 
+y_true: Võ
+đến 
+y_true: tâm
+đặc 
+y_true: đắc
+với 
+y_true: với
+có 
+y_true: cơ
+chế 
+y_true: chế
+chuyên 
+y_true: khuyến
+khic
+y_true: khích
+nhà 
+y_true: nhà
+đặcu 
+y_true: đầu
+bị 
+y_true: tư
+thỏa 
+y_true: thỏa
+thu 
+y_true: thuận
+với 
+y_true: với
+người 
+y_true: người
+Sử 
+y_true: sử
+đạt 
+y_true: đất
+để 
+y_true: để
+nhận 
+y_true: nhận
+Chẳng 
+y_true: chuyển
+những 
+y_true: nhượng
+học các 
+y_true: hoặc
+thực 
+y_true: thuê
+quyển 
+y_true: quyền
+sau 
+y_true: sử
+động 
+y_true: dụng
+đất 
+y_true: đất
+nhận 
+y_true: nhận
+gặp 
+y_true: góp
+vốn 
+y_true: vốn
+bạn 
+y_true: bằng
+quyên 
+y_true: quyền
+Sử 
+y_true: sử
+chưng 
+y_true: dụng
+đất 
+y_true: đất
+Nhưng 
+y_true: Nhưng
+trải 
+y_true: tại
+hội 
+y_true: hội
+nghị 
+y_true: nghị
+hôm 
+y_true: hôm
+quả 
+y_true: qua
+triết 
+y_true: tiếng
+nói.
+y_true: nói
+hã
+y_true: từ
+các 
+y_true: các
+Số 
+y_true: sở
+tại 
+y_true: tài
+nguyễn 
+y_true: nguyên
+với 
+y_true: và
+mới 
+y_true: môi
+trường 
+y_true: trường
+kêu 
+y_true: lại
+trên 
+y_true: điều
+hành 
+y_true: hành
+Lọa 
+y_true: loại
+hóa 
+y_true: bỏ
+điều
+y_true: điều
+chào 
+y_true: khoản
+này 
+y_true: này
+Và 
+y_true: ra
+châu 
+y_true: khỏi
+đầu 
+y_true: dự
+thảo 
+y_true: thảo
+gì 
+y_true: Giám
+được 
+y_true: đốc
+Số 
+y_true: Sở
+thể 
+y_true: Tài
+nguyên 
+y_true: nguyên
+mới 
+y_true: môi
+thuỷ 
+y_true: trường
+Hạt 
+y_true: Hải
+Phòng 
+y_true: Phòng
+cấm 
+y_true: Chu
+Minh 
+y_true: Minh
+Tỉnh 
+y_true: Tuấn
+câu 
+y_true: cho
+biết 
+y_true: biết
+thành 
+y_true: thành
+phố 
+y_true: phố
+công 
+y_true: cảng
+độc 
+y_true: từng
+áp 
+y_true: áp
+để 
+y_true: dụng
+Có 
+y_true: cơ
+chế 
+y_true: chế
+thỏa 
+y_true: thỏa
+thông 
+y_true: thuận
+trường 
+y_true: trong
+một 
+y_true: một
+Số 
+y_true: số
+rất 
+y_true: rất
+tị
+y_true: ít
+trường 
+y_true: trường
+hội 
+y_true: hợp
+vậy 
+y_true: vậy
+mà 
+y_true: mà
+của 
+y_true: đã
+đây 
+y_true: gây
+phạm 
+y_true: phản
+vậy 
+y_true: ứng
+trẻg
+y_true: theo
+kết quả 
+y_true: kiểu
+đây 
+y_true: dây
+chuyên 
+y_true: chuyền
+kế 
+y_true: khá
+mạch 
+y_true: mạnh
+anh 
+y_true: anh
+mấy 
+y_true: này
+nhắc 
+y_true: nhận
+trên 
+y_true: tiền
+với 
+y_true: rồi
+quảy 
+y_true: quay
+là 
+y_true: lại
+đối 
+y_true: đòi
+nưng 
+y_true: nữa
+cảnh 
+y_true: anh
+Lưu 
+y_true: kia
+thóc 
+y_true: thỏa
+thành 
+y_true: thuận
+xong 
+y_true: xong
+quảng 
+y_true: quay
+và 
+y_true: ra
+độc 
+y_true: đòi
+thoá 
+y_true: thỏa
+thuần 
+y_true: thuận
+kết 
+y_true: lại
+Chưa 
+y_true: Chưa
+lẽ 
+y_true: kể
+để 
+y_true: để
+doanh 
+y_true: doanh
+nghiệp 
+y_true: nghiệp
+và 
+y_true: và
+người 
+y_true: người
+dạc 
+y_true: dân
+nói 
+y_true: nói
+chuyên 
+y_true: chuyện
+với 
+y_true: với
+nhân 
+y_true: nhau
+nhi 
+y_true: như
+với 
+y_true: vậy
+quyển 
+y_true: quyền
+của 
+y_true: của
+có 
+y_true: cơ
+giành
+y_true: quan
+quan 
+y_true: quản
+cây 
+y_true: lý
+nhà 
+y_true: nhà
+nhuốc 
+y_true: nước
+sẽ 
+y_true: sẽ
+mắt 
+y_true: mất
+đi 
+y_true: đi
+- Tổng.
+y_true: Tôi
+cùng 
+y_true: cũng
+có 
+y_true: có
+T
+y_true: suy
+nghị 
+y_true: nghĩ
+như 
+y_true: như
+đường 
+y_true: đồng
+cụm 
+y_true: chí
+Bộ 
+y_true: Bỏ
+thực 
+y_true: được
+giữ 
+y_true: qui
+định lý 
+y_true: định
+này 
+y_true: này
+đi 
+y_true: đi
+thứ 
+y_true: thì
+Hội 
+y_true: tốt
+cùng 
+y_true: Cùng
+một 
+y_true: một
+lực 
+y_true: lúc
+chuyện 
+y_true: chúng
+T
+y_true: ta
+thực 
+y_true: thực
+hành 
+y_true: hiện
+hạch.
+y_true: hai
+Cả 
+y_true: cơ
+chế 
+y_true: chế
+vâng 
+y_true: vừa
+Nhà 
+y_true: Nhà
+mức độ 
+y_true: nước
+thực 
+y_true: thực
+hết 
+y_true: hiện
+thu 
+y_true: thu
+hội 
+y_true: hồi
+đặt 
+y_true: đất
+như 
+y_true: như
+cách 
+y_true: cách
+lên 
+y_true: lâu
+này 
+y_true: nay
+vẫn 
+y_true: vừa
+chuyên 
+y_true: khuyến
+khuếc
+y_true: khích
+nhu 
+y_true: nhà
+được
+y_true: đầu
+trở 
+y_true: tư
+thông 
+y_true: thỏa
+thu 
+y_true: thuận
+với 
+y_true: với
+nghịch.
+y_true: người
+Sửa
+y_true: sử
+dụng 
+y_true: dụng
+cắt 
+y_true: đất
+thị 
+y_true: thì
+phúc 
+y_true: phức
+Tác 
+y_true: tạp
+công 
+y_true: ông
+Trình 
+y_true: Trịnh
+licên 
+y_true: Kiên
+điều
+y_true: Đĩnh
+phố 
+y_true: phó
+điểm
+y_true: giám
+được 
+y_true: đốc
+Số 
+y_true: Sở
+Tài 
+y_true: Tài
+Nguyễn 
+y_true: nguyên
+mới 
+y_true: môi
+thuật 
+y_true: trường
+và 
+y_true: và
+nhu 
+y_true: nhà
+đạt 
+y_true: đất
+Học 
+y_true: Hà
+nói 
+y_true: Nội
+Lời 
+y_true: lên
+thứ 
+y_true: tiếng
+Bảo 
+y_true: Bảo
+và 
+y_true: vệ
+lập 
+y_true: lập
+thường 
+y_true: trường
+của 
+y_true: của
+có 
+y_true: cơ
+quận 
+y_true: quan
+sớm 
+y_true: soạn
+thảo 
+y_true: thảo
+thứ 
+y_true: Thứ
+thường 
+y_true: trưởng
+Đảng 
+y_true: Đặng
+tháng 
+y_true: Hùng
+và 
+y_true: Võ
+không 
+y_true: khẳng
+định 
+y_true: định
+thường 
+y_true: trường
+hợp 
+y_true: hợp
+như 
+y_true: nhà
+đức 
+y_true: đầu
+trả 
+y_true: tư
+có 
+y_true: có
+như 
+y_true: nhu
+các 
+y_true: cầu
+thỏa 
+y_true: thỏa
+thành 
+y_true: thuận
+với 
+y_true: với
+người 
+y_true: người
+đóng 
+y_true: đang
+như 
+y_true: sử
+dùng 
+y_true: dụng
+đại 
+y_true: đất
+chỉnh 
+y_true: chúng
+Tá 
+y_true: ta
+cán 
+y_true: cần
+thường 
+y_true: khuyến
+which
+y_true: khích
+út 
+y_true: vì
+Nhà 
+y_true: Nhà
+mốc 
+y_true: nước
+chẳng
+y_true: chẳng
+mất 
+y_true: mất
+cái 
+y_true: cái
+gì 
+y_true: gì
+cả 
+y_true: cả
+ông 
+y_true: Ông
+vô 
+y_true: Võ
+hưu 
+y_true: kêu
+đối 
+y_true: gọi
+chứng 
+y_true: chúng
+Tư 
+y_true: ta
+cán 
+y_true: cần
+thay 
+y_true: thay
+đối 
+y_true: đổi
+thông 
+y_true: trong
+quan
+y_true: quan
+điểm 
+y_true: điểm
+không
+y_true: không
+chủ 
+y_true: nên
+đã 
+y_true: để
+thể 
+y_true: hệ
+thông 
+y_true: thống
+bành 
+y_true: hành
+chính 
+y_true: chính
+đơn 
+y_true: ôm
+với 
+y_true: về
+
+y_true: mình
+những 
+y_true: nhiều
+quả 
+y_true: quá
+với 
+y_true: bởi
+ông 
+y_true: ôm
+cảng 
+y_true: càng
+những 
+y_true: nhiều
+thì 
+y_true: thì
+lại 
+y_true: sai
+cảng 
+y_true: càng
+những 
+y_true: nhiều
+Rõ 
+y_true: Bộ
+thường 
+y_true: trưởng
+trả 
+y_true: Mai
+A 
+y_true: Ái
+Trúc 
+y_true: Trực
+trong 
+y_true: tiếp
+lời 
+y_true: lời
+các 
+y_true: Các
+nước 
+y_true: nước
+độc 
+y_true: đều
+áp 
+y_true: áp
+dùng 
+y_true: dụng
+có 
+y_true: cơ
+chủ 
+y_true: chế
+trị 
+y_true: tự
+thoạc 
+y_true: thỏa
+thương 
+y_true: thuận
+kho 
+y_true: khi
+thỏa 
+y_true: thu
+nhờ 
+y_true: hồi
+đất 
+y_true: đất
+Ngày 
+y_true: Ngay
+cả 
+y_true: cả
+thường 
+y_true: trường
+một 
+y_true: hợp
+Từ
+y_true: ta
+hướng 
+y_true: không
+quả 
+y_true: qui
+đỉnh 
+y_true: định
+người 
+y_true: người
+đàn 
+y_true: dân
+và 
+y_true: và
+doanh 
+y_true: doanh
+ngập 
+y_true: nghiệp
+văn 
+y_true: vẫn
+thực 
+y_true: thực
+những 
+y_true: hiện
+có 
+y_true: cơ
+chờ 
+y_true: chế
+máy 
+y_true: này
+Nội 
+y_true: Nếu
+cứu 
+y_true: cứ
+đúng 
+y_true: dùng
+quyên 
+y_true: quyền
+lực
+y_true: lực
+bách 
+y_true: hành
+chính 
+y_true: chính
+mặc 
+y_true: nhà
+một 
+y_true: nước
+với 
+y_true: với
+cào 
+y_true: mô
+bình 
+y_true: hình
+thông
+y_true: khuôn
+cũng 
+y_true: cứng
+người 
+y_true: người
+đàn 
+y_true: dân
+Aể 
+y_true: sẽ
+lưu 
+y_true: kêu
+đồng 
+y_true: ông
+trực 
+y_true: Trực
+nói 
+y_true: nói
+Chuyên 
+y_true: Chuyện
+bố 
+y_true: bố
+công 
+y_true: con
+Phố 
+y_true: Phó
+Giám 
+y_true: giám
+độc 
+y_true: đốc
+Số 
+y_true: Sở
+Tại 
+y_true: Tài
+nguyễn 
+y_true: nguyên
+mới 
+y_true: môi
+thường 
+y_true: trường
+vốn 
+y_true: nhà
+đặt 
+y_true: đất
+tất 
+y_true: Hà
+Nội 
+y_true: Nội
+Trình 
+y_true: Trịnh
+khóm 
+y_true: Kiên
+định 
+y_true: Đĩnh
+đã 
+y_true: đề
+nghị 
+y_true: nghị
+thành 
+y_true: thẩm
+quyền 
+y_true: quyền
+thu 
+y_true: thu
+khế 
+y_true: hồi
+đặt 
+y_true: đất
+chào 
+y_true: giao
+đất 
+y_true: đất
+nhờ 
+y_true: phải
+được 
+y_true: được
+thỏ
+y_true: thể
+hôm 
+y_true: hiện
+thỏa 
+y_true: theo
+thuộc 
+y_true: tinh
+thành 
+y_true: thần
+ông 
+y_true: ông
+bộ 
+y_true: bố
+báo 
+y_true: bao
+đường 
+y_true: trùm
+Dựa 
+y_true: ông
+còn 
+y_true: con
+thỏ
+y_true: Theo
+đi 
+y_true: đó
+UBND
+y_true: UBND
+cấp 
+y_true: cấp
+tinh 
+y_true: tỉnh
+thành 
+y_true: thành
+thời 
+y_true: phố
+được 
+y_true: được
+quyên 
+y_true: quyền
+thu 
+y_true: thu
+hội 
+y_true: hồi
+gây 
+y_true: giao
+cứu 
+y_true: đất
+thực 
+y_true: thuộc
+thông 
+y_true: thẩm
+quyên 
+y_true: quyền
+của 
+y_true: của
+UBND
+y_true: UBND
+công 
+y_true: cấp
+quận 
+y_true: quận
+hủy 2n.
+y_true: huyện
+thay 
+y_true: thay
+uti 
+y_true: vì
+quả 
+y_true: qui
+định 
+y_true: định
+chủ 
+y_true: như
+thành.
+y_true: hiện
+mấy 
+y_true: nay
+sống 
+y_true: ông
+với 
+y_true: bố
+muốn 
+y_true: muốn
+lên 
+y_true: làm
+điều 
+y_true: điều
+một 
+y_true: này
+phải 
+y_true: phải
+Hồng 
+y_true: thông
+báo 
+y_true: báo
+chờ 
+y_true: cho
+ông 
+y_true: ông
+còn 
+y_true: con
+thực 
+y_true: thực
+hành 
+y_true: hiện
+vừa 
+y_true: vừa
+như vụ 
+y_true: nhiêu
+Vào 
+y_true: khê
+văn 
+y_true: vừa
+hướng 
+y_true: không
+thể 
+y_true: thể
+Hôm 
+y_true: hiện
+hướng
+y_true: hướng
+đi 
+y_true: đi
+các 
+y_true: cải
+cách 
+y_true: cách
+thứ 
+y_true: thủ
+thực 
+y_true: tục
+hành 
+y_true: hành
+chính 
+y_true: chính
+Lập 
+y_true: Lập
+trắc 
+y_true: tức
+Thủ
+y_true: Thứ
+thường
+y_true: trưởng
+đánh 
+y_true: Đặng
+đường 
+y_true: Hùng
+với 
+y_true: Võ
+phạm 
+y_true: phản
+công 
+y_true: ứng
+ông 
+y_true: ông
+bộ 
+y_true: bố
+có 
+y_true: có
+quyên 
+y_true: quyền
+của 
+y_true: của
+công 
+y_true: ông
+bộ 
+y_true: bố
+bằng 
+y_true: ông
+công 
+y_true: con
+có 
+y_true: có
+chuyên 
+y_true: quyền
+của 
+y_true: của
+đồng 
+y_true: ông
+Còn 
+y_true: con
+chết 
+y_true: Luật
+hàng 
+y_true: không
+chờ 
+y_true: cho
+pháp 
+y_true: phép
+sông 
+y_true: ông
+bố 
+y_true: bố
+làm 
+y_true: làm
+thấy 
+y_true: thay
+5nạ
+y_true: ông
+Còn 
+y_true: con
+Trường
+y_true: Trường
+hợp 
+y_true: hợp
+nào 
+y_true: nào
+bạn 
+y_true: làm
+thay 
+y_true: thay
+ba 
+y_true: là
+phạm 
+y_true: phạm
+luật 
+y_true: luật
+còn 
+y_true: chỉ
+có 
+y_true: có
+được 
+y_true: điều
+bình 
+y_true: hiện
+mấy 
+y_true: nay
+adc
+y_true: các
+định 
+y_true: ông
+Còn 
+y_true: con
+thông 
+y_true: không
+đảm 
+y_true: dám
+khơi 
+y_true: kêu
+mà 
+y_true: mà
+thời 
+y_true: thôi
+khất 
+y_true: KHÁI
+Qvật 
+y_true: QUÁT
+Về 
+y_true: VỀ
+Bên 
+y_true: BIỂN
+đảo 
+y_true: ĐẢO
+Vật 
+y_true: VIỆT
+Năm 
+y_true: NAM
+nước
+y_true: Nước
+thể 
+y_true: ta
+đáp 
+y_true: giáp
+với 
+y_true: với
+bên 
+y_true: biển
+động 
+y_true: Đông
+3 
+y_true: ở
+thời 
+y_true: hai
+phải 
+y_true: phía
+đồng 
+y_true: Đông
+và 
+y_true: và
+Văn 
+y_true: Nam
+Vùng 
+y_true: Vùng
+biện 
+y_true: biển
+Việt
+y_true: Việt
+nào 
+y_true: Nam
+T 
+y_true: là
+một 
+y_true: một
+phân 
+y_true: phần
+biện 
+y_true: biển
+độc 
+y_true: Đông
+Bộ 
+y_true: Bờ
+biên 
+y_true: biển
+lại 
+y_true: dài
+. số
+y_true: 3
+280
+y_true: 260
+Làm 
+y_true: km
+thị 
+y_true: từ
+Quảng 
+y_true: Quảng
+Vĩnh 
+y_true: Ninh
+đánh 
+y_true: đến
+điện 
+y_true: Kiên
+Giảng 
+y_true: Giang
+Nhờ 
+y_true: Như
+này 
+y_true: vậy
+cứ
+y_true: cứ
+100
+y_true: 100
+bốn 
+y_true: km2
+thỏi 
+y_true: thì
+có 
+y_true: có
+4 
+y_true: 1
+kính 
+y_true: km
+bộ 
+y_true: bờ
+biện 
+y_true: biển
+thông 
+y_true: trung
+kinh 
+y_true: bình
+của 
+y_true: của
+thực 
+y_true: thế
+gọi 
+y_true: giới
+là 
+y_true: là
+600
+y_true: 600
+khi 
+y_true: km2
+đạt 
+y_true: đất
+đến 
+y_true: liền
+4 
+y_true: 1
+bạn 
+y_true: km
+bộ 
+y_true: bờ
+bên 
+y_true: biển
+Bên 
+y_true: Biển
+có 
+y_true: có
+Vùng 
+y_true: vùng
+nội 
+y_true: nội
+thủy 
+y_true: thủy
+tành
+y_true: lãnh
+thảo 
+y_true: hải
+Vòng 
+y_true: vùng
+được 
+y_true: đặc
+quyên 
+y_true: quyền
+kính 
+y_true: kinh
+đã 
+y_true: tế
+và 
+y_true: và
+điểm 
+y_true: thềm
+tác 
+y_true: lục
+đã 
+y_true: địa
+với 
+y_true: với
+- liên 
+y_true: diện
+chỉnh 
+y_true: tích
+điện 
+y_true: trên
+4 
+y_true: 1
+chuyển 
+y_true: triệu
+Lưu 
+y_true: km2
+3 
+y_true: 3
+định 
+y_true: diện
+điều
+y_true: tích
+đất 
+y_true: đất
+liên 
+y_true: liền
+4 
+y_true: 1
+thuật 
+y_true: triệu
+lĩnh 
+y_true: km2
+290 
+y_true: 330
+000
+y_true: 000
+kính 
+y_true: km2
+ông 
+y_true: Trong
+đồ
+y_true: đó
+có 
+y_true: có
+5 
+y_true: 2
+quyền 
+y_true: quần
+đạo 
+y_true: đảo
+Hàng 
+y_true: Hoàng
+5 
+y_true: Sa
+đường 
+y_true: Trường
+5 
+y_true: Sa
+và 
+y_true: và
+3 
+y_true: 2
+5 47 
+y_true: 577
+được 
+y_true: đảo
+bên 
+y_true: lớn
+nhỏ 
+y_true: nhỏ
+đang 
+y_true: gần
+và 
+y_true: và
+Xã 
+y_true: xa
+bộ 
+y_true: bờ
+thập 
+y_true: hợp
+thành 
+y_true: thành
+phỏng 
+y_true: phòng
+trường 
+y_true: tuyến
+bắt 
+y_true: bảo
+và 
+y_true: vệ
+điểm 
+y_true: kiểm
+sách 
+y_true: soát
+và 
+y_true: và
+làm 
+y_true: làm
+chủ 
+y_true: chủ
+này 
+y_true: vùng
+bệnh 
+y_true: biển
+có 
+y_true: Có
+vì 
+y_true: vị
+thì 
+y_true: trí
+chèn 
+y_true: chiến
+được 
+y_true: lược
+9 quan
+y_true: quan
+thông 
+y_true: trọng
+mới 
+y_true: nối
+liên 
+y_true: liền
+6 bầu
+y_true: Thái
+Bình 
+y_true: Bình
+được 
+y_true: Dương
+nói 
+y_true: với
+4 
+y_true: Ấn
+Vì 
+y_true: Độ
+đường 
+y_true: Dương
+châu 
+y_true: châu
+4 
+y_true: Á
+với 
+y_true: với
+chau 
+y_true: châu
+4 
+y_true: Âu
+châu 
+y_true: châu
+vô 
+y_true: Úc
+với 
+y_true: với
+Dựng 
+y_true: Trung
+độc 
+y_true: Đông
+cảo 
+y_true: Giao
+điều 
+y_true: lưu
+guồn 
+y_true: quốc
+để 
+y_true: tế
+thuận 
+y_true: thuận
+lấy 
+y_true: lợi
+phát 
+y_true: phát
+thành 
+y_true: triển
+ngành 
+y_true: ngành
+bốn mươi
+y_true: biển
+có 
+y_true: Có
+khả 
+y_true: khí
+hau 
+y_true: hậu
+bốn 
+y_true: biển
+là 
+y_true: là
+vùng 
+y_true: vùng
+như 
+y_true: nhiệt
+đội 
+y_true: đới
+5th 
+y_true: tạo
+điều
+y_true: điều
+kiện 
+y_true: kiện
+còn 
+y_true: cho
+sinh 
+y_true: sinh
+vật 
+y_true: vật
+bên 
+y_true: biển
+phát 
+y_true: phát
+thên 
+y_true: triển
+thời 
+y_true: tồn
+thu 
+y_true: tại
+đặt 
+y_true: tốt
+có 
+y_true: Có
+bầu 
+y_true: tài
+nghiệm 
+y_true: nguyên
+sinh 
+y_true: sinh
+với 
+y_true: vật
+và 
+y_true: và
+không 
+y_true: khoáng
+sản 
+y_true: sản
+phạm 
+y_true: phong
+phụ 
+y_true: phú
+đa 
+y_true: đa
+đang 
+y_true: dạng
+giờ 
+y_true: quý
+hành 
+y_true: hiếm
+vùng 
+y_true: Vùng
+bên 
+y_true: biển
+và 
+y_true: và
+hóa 
+y_true: hải
+đã 
+y_true: đảo
+nhắc 
+y_true: nước
+đã 
+y_true: ta
+có 
+y_true: có
+vì 
+y_true: vị
+chỉ 
+y_true: trí
+chỉnh
+y_true: chiến
+lược 
+y_true: lược
+thất 
+y_true: hết
+sự có
+y_true: sức
+F3
+y_true: to
+lớn 
+y_true: lớn
+có 
+y_true: có
+anh 
+y_true: ảnh
+hướng 
+y_true: hưởng
+thực 
+y_true: trực
+thể 
+y_true: tiếp
+đến 
+y_true: đến
+Bộ 
+y_true: sự
+nhập 
+y_true: nghiệp
+bảo 
+y_true: bảo
+về 
+y_true: vệ
+nên 
+y_true: nền
+độc 
+y_true: độc
+lập 
+y_true: lập
+đến 
+y_true: dân
+thỏ
+y_true: tộc
+và 
+y_true: và
+Xây
+y_true: xây
+điểm 
+y_true: dựng
+chủ 
+y_true: chủ
+ngắn 
+y_true: nghĩa
+xã 
+y_true: xã
+hội 
+y_true: hội
+có 
+y_true: có
+liên 
+y_true: liên
+quên 
+y_true: quan
+thực
+y_true: trực
+thép 
+y_true: tiếp
+đến
+y_true: đến
+Bộ 
+y_true: sự
+phạm 
+y_true: phồn
+vành 
+y_true: vinh
+của 
+y_true: của
+đạt
+y_true: đất
+một 
+y_true: nước
+đến 
+y_true: đến
+văn 
+y_true: văn
+anh 
+y_true: minh
+và 
+y_true: và
+không 
+y_true: hạnh
+pháo 
+y_true: phúc
+của 
+y_true: của
+nhân 
+y_true: nhân
+điện 
+y_true: dân
+Chínhng
+y_true: Chương
+tính 
+y_true: trình
+hành 
+y_true: hành
+đồng 
+y_true: động
+thức
+y_true: thực
+hình 
+y_true: hiện
+Nhật.
+y_true: Nghị
+quyết 
+y_true: quyết
+tínhg
+y_true: trung
+tiếng 
+y_true: ương
+c 
+y_true: 9
+khóa 
+y_true: khóa
+Tk
+y_true: IX
+của 
+y_true: của
+Đảng 
+y_true: Đảng
+bộ 
+y_true: bộ
+TF 
+y_true: TP
+thực 
+y_true: HCM
+và 
+y_true: Về
+xây 
+y_true: xây
+dùng 
+y_true: dựng
+Bảng 
+y_true: Đảng
+thép 
+y_true: tiếp
+tục 
+y_true: tục
+chủ 
+y_true: chỉ
+đào 
+y_true: đạo
+mạnh 
+y_true: mạnh
+mở 
+y_true: mẽ
+có 
+y_true: có
+học 
+y_true: hiệu
+gửa 
+y_true: quả
+cước 
+y_true: cuộc
+vận 
+y_true: vận
+đồng 
+y_true: động
+xây 
+y_true: xây
+dùng 
+y_true: dựng
+chínhnh
+y_true: chỉnh
+điện 
+y_true: đốn
+Đảng 
+y_true: Đảng
+thảo 
+y_true: theo
+tính 
+y_true: tinh
+thành 
+y_true: thần
+mạnh.
+y_true: nghị
+quyết 
+y_true: quyết
+tưởng 
+y_true: trung
+vàng 
+y_true: ương
+C
+y_true: 6
+đến 
+y_true: lần
+đi 
+y_true: 2
+thỏo
+y_true: Theo
+độ 
+y_true: đó
+từp
+y_true: tiếp
+tức
+y_true: tục
+thực 
+y_true: thực
+nhơn 
+y_true: hiện
+vào 
+y_true: việc
+lu 
+y_true: kê
+khau 
+y_true: khai
+nhau 
+y_true: nhà
+đất 
+y_true: đất
+và 
+y_true: và
+có 
+y_true: cơ
+số
+y_true: sở
+xanh 
+y_true: sản
+nhat
+y_true: xuất
+hình 
+y_true: kinh
+doanh 
+y_true: doanh
+của 
+y_true: của
+cán 
+y_true: cán
+bộ 
+y_true: bộ
+công 
+y_true: công
+chắc 
+y_true: chức
+tăng 
+y_true: tăng
+cưỡng 
+y_true: cường
+thành 
+y_true: thanh
+khuếnh 
+y_true: kiểm
+trả 
+y_true: tra
+những
+y_true: những
+nói 
+y_true: nơi
+có 
+y_true: có
+dầu 
+y_true: dấu
+học 
+y_true: hiệu
+Vì 
+y_true: vi
+phạm 
+y_true: phạm
+đặc 
+y_true: đặc
+biết 
+y_true: biệt
+- trong 
+y_true: trong
+lĩnh 
+y_true: lĩnh
+vục
+y_true: vực
+đạt
+y_true: đất
+đầu 
+y_true: đai
+và 
+y_true: và
+các 
+y_true: các
+công 
+y_true: công
+tính 
+y_true: trình
+bảng 
+y_true: trọng
+điện 
+y_true: điểm
+Xứ 
+y_true: Xử
+kỳ 
+y_true: lý
+nghiệm 
+y_true: nghiêm
+minh 
+y_true: minh
+thỏo
+y_true: theo
+pháp 
+y_true: pháp
+khát.
+y_true: luật
+và 
+y_true: và
+kỳ 
+y_true: kỷ
+khát 
+y_true: luật
+của 
+y_true: của
+đảng 
+y_true: Đảng
+những
+y_true: những
+người 
+y_true: người
+có 
+y_true: có
+hành
+y_true: hành
+tối 
+y_true: vi
+Bạn 
+y_true: sai
+thu 
+y_true: trái
+và 
+y_true: và
+những
+y_true: những
+người 
+y_true: người
+báo 
+y_true: bao
+chào 
+y_true: che
+thực
+y_true: Thực
+thuần 
+y_true: hiện
+đặt 
+y_true: tốt
+các 
+y_true: các
+gày 
+y_true: quy
+định 
+y_true: định
+Hội 
+y_true: đối
+vốn 
+y_true: với
+cảm 
+y_true: cán
+bộ 
+y_true: bộ
+lành 
+y_true: lãnh
+đạo 
+y_true: đạo
+quan 
+y_true: quản
+bị 
+y_true: lý
+đã 
+y_true: để
+xây 
+y_true: xảy
+nào 
+y_true: ra
+điểm
+y_true: tham
+những 
+y_true: nhũng
+hieu 
+y_true: tiêu
+các 
+y_true: cực
+3 
+y_true: ở
+có 
+y_true: cơ
+giành 
+y_true: quan
+đến 
+y_true: đơn
+vì 
+y_true: vị
+liêm 
+y_true: Kiện
+tòan 
+y_true: toàn
+là 
+y_true: và
+tăng
+y_true: tăng
+cưỡng 
+y_true: cường
+sức 
+y_true: sức
+chuyên 
+y_true: chiến
+đầu 
+y_true: đấu
+của 
+y_true: của
+để 
+y_true: tổ
+chức 
+y_true: chức
+có 
+y_true: cơ
+có 
+y_true: sở
+đảng 
+y_true: Đảng
+Tỉnh 
+y_true: Tiếp
+tức 
+y_true: tục
+đồu 
+y_true: đổi
+một 
+y_true: mới
+và 
+y_true: và
+năng 
+y_true: nâng
+cao 
+y_true: cao
+công 
+y_true: công
+tác 
+y_true: tác
+cánh 
+y_true: cán
+bộ 
+y_true: bộ
+Tập 
+y_true: Tiếp
+tác 
+y_true: tục
+tổu 
+y_true: đổi
+một 
+y_true: mới
+phương 
+y_true: phương
+được 
+y_true: thức
+lành 
+y_true: lãnh
+đào 
+y_true: đạo
+cuộc 
+y_true: của
+cấp 
+y_true: cấp
+ủy 
+y_true: ủy
+đảng 
+y_true: Đảng
+thỏo 
+y_true: theo
+phương 
+y_true: phương
+chăm
+y_true: châm
+hướng 
+y_true: hướng
+mạnh 
+y_true: mạnh
+về 
+y_true: về
+có 
+y_true: cơ
+Số 
+y_true: sở
+Với 
+y_true: Về
+câu 
+y_true: cải
+cách
+y_true: cách
+hành 
+y_true: hành
+chính
+y_true: chính
+Tách.
+y_true: Tập
+tínhng
+y_true: trung
+chăm 
+y_true: chấn
+chính.
+y_true: chỉnh
+mạnh 
+y_true: mạnh
+thông 
+y_true: hơn
+nhưa 
+y_true: nữa
+kết 
+y_true: kỷ
+cũng 
+y_true: cương
+hợi 
+y_true: kỷ
+luật 
+y_true: luật
+từng 
+y_true: trong
+bộ 
+y_true: bộ
+mang 
+y_true: máy
+hành 
+y_true: hành
+chính 
+y_true: chính
+năng 
+y_true: nâng
+cao 
+y_true: cao
+thành
+y_true: tinh
+thành 
+y_true: thần
+thành 
+y_true: trách
+những 
+y_true: nhiệm
+Và 
+y_true: và
+một 
+y_true: ý
+thực
+y_true: thức
+huy 
+y_true: kỷ
+lưu 
+y_true: luật
+của 
+y_true: của
+Công 
+y_true: CB
+Có 
+y_true: CC
+nhất 
+y_true: nhất
+là 
+y_true: là
+trên 
+y_true: trên
+lĩnh 
+y_true: lĩnh
+vục
+y_true: vực
+nhóa 
+y_true: nhà
+đất 
+y_true: đất
+đầu 
+y_true: đầu
+đi 
+y_true: tư
+như 
+y_true: kinh
+đoanh
+y_true: doanh
+tất 
+y_true: trật
+tư 
+y_true: tự
+xây
+y_true: xây
+dùng 
+y_true: dựng
+vào 
+y_true: và
+giải 
+y_true: giải
+giấy 
+y_true: quyết
+không 
+y_true: khiếu
+nếu 
+y_true: nại
+tố 
+y_true: tố
+cao 
+y_true: cáo
+Xây dự
+y_true: Xây
+dùng 
+y_true: dựng
+hành 
+y_true: hoàn
+thành 
+y_true: thiện
+hệ 
+y_true: hệ
+thông 
+y_true: thống
+các 
+y_true: các
+guy 
+y_true: qui
+tính 
+y_true: trình
+thứ 
+y_true: thủ
+thực 
+y_true: tục
+hành 
+y_true: hành
+chính 
+y_true: chính
+Khen 
+y_true: Kiên
+quyết 
+y_true: quyết
+chánh 
+y_true: chấn
+chính thức
+y_true: chỉnh
+bộ 
+y_true: bộ
+mạnh 
+y_true: máy
+hành 
+y_true: hành
+chính hộ
+y_true: chính
+các 
+y_true: các
+cấp 
+y_true: cấp
+nhành 
+y_true: nhanh
+chứng 
+y_true: chóng
+khác 
+y_true: khắc
+phục 
+y_true: phục
+trình 
+y_true: tình
+tháng 
+y_true: trạng
+quan 
+y_true: quan
+đầu 
+y_true: liêu
+của 
+y_true: cửa
+guyên 
+y_true: quyền
+hành 
+y_true: hách
+điều 
+y_true: dịch
+Xây 
+y_true: Xây
+dùng 
+y_true: dựng
+nếu 
+y_true: và
+nhất
+y_true: phát
+tính n
+y_true: triển
+đến 
+y_true: đội
+ngủ 
+y_true: ngũ
+Có 
+y_true: CB
+Có 
+y_true: CC
+có 
+y_true: có
+chất 
+y_true: chất
+đường 
+y_true: lượng
+chuyên 
+y_true: chuyên
+môn 
+y_true: môn
+cao 
+y_true: cao
+có 
+y_true: có
+phạm 
+y_true: phẩm
+chất 
+y_true: chất
+đạo 
+y_true: đạo
+được 
+y_true: đức
+Hôm 
+y_true: Kiểm
+tác 
+y_true: tra
+Xâu 
+y_true: xử
+tây 
+y_true: lý
+hư 
+y_true: kiên
+quyết 
+y_true: quyết
+các 
+y_true: các
+vụ 
+y_true: vụ
+thành
+y_true: tham
+những 
+y_true: nhũng
+làng 
+y_true: lãng
+phụ 
+y_true: phí
+bản 
+y_true: làm
+đất 
+y_true: thất
+thoát 
+y_true: thoát
+tác 
+y_true: tài
+sản 
+y_true: sản
+như 
+y_true: nhà
+nước 
+y_true: nước
+Về 
+y_true: Về
+hành 
+y_true: kinh
+-là 
+y_true: tế
+Tập 
+y_true: Tập
+. tìnhng 
+y_true: trung
+móc 
+y_true: mọi
+mô 
+y_true: nỗ
+đức 
+y_true: lực
+nhằm
+y_true: nhằm
+thảo 
+y_true: tháo
+độ 
+y_true: gỡ
+sản 
+y_true: sản
+xuat
+y_true: xuất
+trình 
+y_true: kinh
+doanh 
+y_true: doanh
+đầu 
+y_true: đưa
+tốc 
+y_true: tốc
+độ 
+y_true: độ
+tăng 
+y_true: tăng
+tưởng 
+y_true: trưởng
+GDP
+y_true: GDP
+điện 
+y_true: trên
+địa 
+y_true: địa
+bản 
+y_true: bàn
+TỔ 
+y_true: TP
+đạt 
+y_true: đạt
+đã 
+y_true: 12
+năm 
+y_true: năm
+2COO4
+y_true: 2004
+và 
+y_true: và
+trên 
+y_true: trên
+1 9 
+y_true: 12
+năm 
+y_true: năm
+2005
+y_true: 2005
+Đhất 
+y_true: Phát
+trên 
+y_true: triển
+nhành 
+y_true: nhanh
+các 
+y_true: các
+ngành 
+y_true: ngành
+dịch 
+y_true: dịch
+Yêu 
+y_true: vụ
+tác 
+y_true: tái
+câu 
+y_true: cấu
+tính 
+y_true: trúc
+các 
+y_true: các
+ngành
+y_true: ngành
+công 
+y_true: công
+nghịp
+y_true: nghiệp
+tận 
+y_true: Tiếp
+thực 
+y_true: tục
+nhận 
+y_true: nhân
+trong 
+y_true: rộng
+các 
+y_true: các
+mộc 
+y_true: mô
+hình 
+y_true: hình
+hủy 
+y_true: huy
+đồng 
+y_true: động
+vốn 
+y_true: vốn
+đầu 
+y_true: đầu
+tới 
+y_true: tư
+Tập.
+y_true: Tập
+trường 
+y_true: trung
+khi 
+y_true: khai
+thuộc 
+y_true: thác
+các 
+y_true: các
+nguồn 
+y_true: nguồn
+vốn 
+y_true: vốn
+cho 
+y_true: cho
+ngàn 
+y_true: ngân
+sách 
+y_true: sách
+Trường 
+y_true: Tổng
+hết 
+y_true: kết
+giữa 
+y_true: quá
+tích 
+y_true: trình
+có 
+y_true: cổ
+phân 
+y_true: phần
+học 
+y_true: hóa
+thành
+y_true: doanh
+nghịp
+y_true: nghiệp
+nhau 
+y_true: nhà
+nước 
+y_true: nước
+và 
+y_true: và
+vực 
+y_true: việc
+tố 
+y_true: tổ
+chức 
+y_true: chức
+sắp 
+y_true: sắp
+xếp 
+y_true: xếp
+đã 
+y_true: lại
+doanh 
+y_true: doanh
+nghịch 
+y_true: nghiệp
+như 
+y_true: nhà
+nhất 
+y_true: nước
+Trường 
+y_true: Triển
+khau 
+y_true: khai
+quyết 
+y_true: quyết
+định hộ 
+y_true: định
+của 
+y_true: của
+TỔ 
+y_true: TP
+và 
+y_true: về
+một 
+y_true: một
+Số 
+y_true: số
+chính 
+y_true: chính
+sách 
+y_true: sách
+vàu 
+y_true: ưu
+đầu 
+y_true: đãi
+A được 
+y_true: đối
+với 
+y_true: với
+các 
+y_true: các
+chỉ 
+y_true: dự
+còn 
+y_true: án
+có 
+y_true: có
+vốn 
+y_true: vốn
+đầu 
+y_true: đầu
+tài 
+y_true: tư
+nước 
+y_true: nước
+người 
+y_true: ngoài
+rác 
+y_true: Rà
+sóc tác 
+y_true: soát
+tạo 
+y_true: lại
+chứng
+y_true: chương
+tính 
+y_true: trình
+hơn 
+y_true: hội
+nhập 
+y_true: nhập
+kinh 
+y_true: kinh
+từ 
+y_true: tế
+của 
+y_true: của
+TP
+y_true: TP
+và 
+y_true: Về
+Văn 
+y_true: văn
+thỏa 
+y_true: hóa
+xã 
+y_true: xã
+học 
+y_true: hội
+đang 
+y_true: đẩy
+mang 
+y_true: mạnh
+kể 
+y_true: xã
+hàn 
+y_true: hội
+khóa 
+y_true: hóa
+phát 
+y_true: phát
+liên 
+y_true: triển
+xã 
+y_true: xã
+hơn 
+y_true: hội
+thóc.
+y_true: học
+tập 
+y_true: tập
+nếu 
+y_true: ưu
+thành 
+y_true: tiên
+đầu 
+y_true: đầu
+tôi 
+y_true: tư
+ngàn 
+y_true: ngân
+cách
+y_true: sách
+chờ 
+y_true: cho
+giao 
+y_true: giáo
+dục.
+y_true: dục
+đảo 
+y_true: đào
+tác 
+y_true: tạo
+Nhàng 
+y_true: Nâng
+cao 
+y_true: cao
+mang 
+y_true: năng
+lực 
+y_true: lực
+quan 
+y_true: quản
+ấy 
+y_true: lý
+nhà 
+y_true: nhà
+nhất 
+y_true: nước
+thêm 
+y_true: trên
+các 
+y_true: các
+lành 
+y_true: lĩnh
+vục
+y_true: vực
+bình 
+y_true: kinh
+đoàn 
+y_true: doanh
+alich 
+y_true: dịch
+vụ 
+y_true: vụ
+văn 
+y_true: văn
+thoại 
+y_true: hóa
+khước 
+y_true: khắc
+phúc.
+y_true: phục
+những 
+y_true: những
+Số 
+y_true: sơ
+khó 
+y_true: hở
+tịch
+y_true: tiêu
+các 
+y_true: cực
+trong 
+y_true: trong
+quan 
+y_true: quản
+lý 
+y_true: lý
+vào 
+y_true: và
+hoạt 
+y_true: hoạt
+đồng 
+y_true: động
+vẫn
+y_true: văn
+thỏa 
+y_true: hóa
+Trường 
+y_true: Tiếp
+tục 
+y_true: tục
+tác 
+y_true: tập
+tăng
+y_true: trung
+nguồn 
+y_true: nguồn
+tác 
+y_true: lực
+chào 
+y_true: cho
+chứng 
+y_true: chương
+tành 
+y_true: trình
+3 
+y_true: 3
+giành 
+y_true: giảm
+Bạn 
+y_true: BẢN
+CHẤT
+y_true: CHẤT
+Của 
+y_true: CỦA
+THANH 
+y_true: THÀNH
+Công 
+y_true: CÔNG
+để 
+y_true: Đã
+báo 
+y_true: bao
+gì 
+y_true: giờ
+bạn 
+y_true: bạn
+thể 
+y_true: tự
+hội 
+y_true: hỏi
+thành 
+y_true: thành
+công 
+y_true: công
+là 
+y_true: là
+đi 
+y_true: gì
+mà 
+y_true: mà
+hội 
+y_true: bao
+kế 
+y_true: kẻ
+bộ 
+y_true: bỏ
+có 
+y_true: cả
+cửa 
+y_true: cuộc
+đây.
+y_true: đời
+mình 
+y_true: mình
+thể 
+y_true: theo
+được 
+y_true: đuổi
+phải 
+y_true: Phải
+chẳng 
+y_true: chăng
+-ng 
+y_true: đó
+lên 
+y_true: là
+kết 
+y_true: kết
+gia 
+y_true: quả
+hướng 
+y_true: hoàn
+hạt 
+y_true: hảo
+thông 
+y_true: trong
+công 
+y_true: công
+với 
+y_true: việc
+sử 
+y_true: sự
+chính 
+y_true: chính
+xác 
+y_true: xác
+đây 
+y_true: đến
+thông 
+y_true: từng
+dự 
+y_true: chi
+hết 
+y_true: tiết
+thay 
+y_true: Hay
+độ 
+y_true: đó
+đã
+y_true: là
+cách 
+y_true: cách
+nội 
+y_true: nói
+khác 
+y_true: khác
+của 
+y_true: của
+thứ
+y_true: từ
+Thanh
+y_true: thành
+đạt 
+y_true: đạt
+nghĩa 
+y_true: nghĩa
+là 
+y_true: là
+có 
+y_true: có
+thức 
+y_true: được
+của 
+y_true: cuộc
+sông 
+y_true: sống
+giấu 
+y_true: giàu
+Sáng 
+y_true: sang
+thể 
+y_true: được
+một 
+y_true: mọi
+nghiên 
+y_true: người
+nữ 
+y_true: nể
+phúc 
+y_true: phục
+vậy 
+y_true: Vậy
+thu 
+y_true: thì
+bạn
+y_true: bạn
+hay 
+y_true: hãy
+đánh 
+y_true: dành
+chất 
+y_true: chút
+thông 
+y_true: thời
+gian 
+y_true: gian
+để 
+y_true: để
+bằng 
+y_true: lặng
+mình 
+y_true: mình
+suy 
+y_true: suy
+ngành 
+y_true: ngẫm
+Góc 
+y_true: Cuộc
+trong 
+y_true: sống
+5 
+y_true: sẽ
+chủ 
+y_true: chỉ
+cần 
+y_true: cho
+bạn 
+y_true: bạn
+đó 
+y_true: có
+những 
+y_true: những
+nghị 
+y_true: người
+thành 
+y_true: thành
+đạt 
+y_true: đạt
+được 
+y_true: được
+thành 
+y_true: thành
+công 
+y_true: công
+thể 
+y_true: theo
+một 
+y_true: một
+cách 
+y_true: cách
+giành 
+y_true: giản
+đại 
+y_true: bất
+ngữ 
+y_true: ngờ
+Thành 
+y_true: Thành
+công 
+y_true: công
+1 
+y_true: là
+kinh 
+y_true: khi
+bộ 
+y_true: bố
+và 
+y_true: và
+còn 
+y_true: con
+trả 
+y_true: trai
+có 
+y_true: có
+đúng 
+y_true: dũng
+khi 
+y_true: khí
+bài 
+y_true: bước
+sau 
+y_true: vào
+bạnh 
+y_true: bếp
+nêu 
+y_true: nấu
+những 
+y_true: những
+mới 
+y_true: món
+cảnh 
+y_true: ăn
+mặc 
+y_true: mẹ
+thách 
+y_true: thích
+nhận 
+y_true: nhân
+ngày 
+y_true: ngày
+B 
+y_true: 8
+3 
+y_true: 3
+một 
+y_true: Món
+cảnh 
+y_true: canh
+có 
+y_true: có
+thể 
+y_true: thể
+hội 
+y_true: hơi
+mạnh 
+y_true: mặn
+mới 
+y_true: món
+cây 
+y_true: cá
+sốt 
+y_true: sốt
+đảng 
+y_true: đáng
+là 
+y_true: lẽ
+phải 
+y_true: phải
+đi 
+y_true: có
+màu 
+y_true: màu
+để 
+y_true: đỏ
+làm 
+y_true: sậm
+thứ 
+y_true: thì
+thị 
+y_true: lại
+nga 
+y_true: ngả
+sáng 
+y_true: sang
+như 
+y_true: màu
+đến 
+y_true: đen
+cháy 
+y_true: cháy
+Những 
+y_true: Nhưng
+nhận 
+y_true: nhìn
+mạnh 
+y_true: mâm
+cộm 
+y_true: cơm
+mẹ 
+y_true: mẹ
+vấn 
+y_true: vẫn
+cửa 
+y_true: cười
+bởi.
+y_true: Bởi
+vì 
+y_true: vì
+hai 
+y_true: hai
+để 
+y_true: bố
+còn 
+y_true: con
+không 
+y_true: không
+thể 
+y_true: thể
+thành
+y_true: thành
+công 
+y_true: công
+trường 
+y_true: trên
+chính 
+y_true: chiến
+thông 
+y_true: trường
+bây 
+y_true: bếp
+năm 
+y_true: núc
+những 
+y_true: nhưng
+lại 
+y_true: lại
+thành 
+y_true: thành
+cây 
+y_true: công
+khu 
+y_true: khi
+được 
+y_true: tặng
+mặc 
+y_true: mẹ
+đặc 
+y_true: đoá
+hạng 
+y_true: hồng
+của 
+y_true: của
+thành 
+y_true: tình
+yêu 
+y_true: yêu
+nhất 
+y_true: Một
+mình 
+y_true: món
+gửa 
+y_true: quà
+vụ 
+y_true: ý
+với hơn 
+y_true: nghĩa
+hội 
+y_true: hơn
+cả 
+y_true: cả
+những 
+y_true: những
+mình 
+y_true: món
+gia 
+y_true: quà
+gây 
+y_true: quý
+điều 
+y_true: giá
+hành 
+y_true: hạnh
+phúc 
+y_true: phúc
+cây 
+y_true: ấy
+lừa 
+y_true: long
+lành 
+y_true: lanh
+lời 
+y_true: in
+Bóng 
+y_true: trong
+một 
+y_true: mắt
+mê 
+y_true: mẹ
+Thanh 
+y_true: Thành
+công 
+y_true: công
+còn 
+y_true: còn
+11 
+y_true: là
+hình 
+y_true: hình
+cảnh 
+y_true: ảnh
+một 
+y_true: một
+câu 
+y_true: cậu
+bộ 
+y_true: bé
+bị 
+y_true: bị
+đi 
+y_true: dị
+tất 
+y_true: tật
+có 
+y_true: ở
+chán
+y_true: chân
+không 
+y_true: không
+bảo 
+y_true: bao
+gửi 
+y_true: giờ
+đi 
+y_true: đi
+là 
+y_true: lại
+bình 
+y_true: bình
+thông 
+y_true: thường
+thức 
+y_true: được
+Trở 
+y_true: Từ
+nhờ 
+y_true: nhỏ
+cầu 
+y_true: cậu
+để 
+y_true: đã
+nhờ 
+y_true: nuôi
+với 
+y_true: ước
+một 
+y_true: mơ
+tới 
+y_true: trở
+thành 
+y_true: thành
+câu 
+y_true: cầu
+thứ 
+y_true: thủ
+bông 
+y_true: bóng
+đã 
+y_true: đá
+Sau 
+y_true: Sau
+bắt 
+y_true: bao
+này 
+y_true: nỗ
+lực 
+y_true: lực
+khổ 
+y_true: khổ
+thành 
+y_true: luyện
+câu 
+y_true: cậu
+bị 
+y_true: bé
+thờ 
+y_true: trở
+thành 
+y_true: thành
+câu 
+y_true: cầu
+thu 
+y_true: thủ
+đi 
+y_true: dự
+bị 
+y_true: bị
+thông 
+y_true: trong
+một 
+y_true: một
+đội 
+y_true: đội
+bằng 
+y_true: bóng
+một 
+y_true: nhỏ
+vô 
+y_true: và
+chưa 
+y_true: chưa
+bắt 
+y_true: bao
+gửi 
+y_true: giờ
+được 
+y_true: được
+chính 
+y_true: chính
+thức 
+y_true: thức
+TỔ 
+y_true: ra
+sáp
+y_true: sân
+những 
+y_true: Nhưng
+độ 
+y_true: đó
+không 
+y_true: không
+phải 
+y_true: phải
+lệ 
+y_true: là
+thất 
+y_true: thất
+bắt 
+y_true: bại
+Tới.
+y_true: Trái
+là 
+y_true: lại
+thành 
+y_true: thành
+công 
+y_true: công
+để 
+y_true: đã
+nỗ 
+y_true: nở
+hóa 
+y_true: hoa
+khí 
+y_true: khi
+câu 
+y_true: cậu
+hã
+y_true: bé
+năm 
+y_true: năm
+tấp 
+y_true: xưa
+với 
+y_true: với
+bắt 
+y_true: bao
+nghị 
+y_true: nghị
+lực 
+y_true: lực
+và 
+y_true: và
+Tây 
+y_true: quyết
+tấm 
+y_true: tâm
+để 
+y_true: đã
+đường 
+y_true: chiến
+tháng 
+y_true: thắng
+hành 
+y_true: hoàn
+cảnh 
+y_true: cảnh
+để 
+y_true: để
+thứd
+y_true: theo
+điều 
+y_true: đuổi
+về 
+y_true: ước
+nhờ 
+y_true: mơ
+thị 
+y_true: từ
+ngày 
+y_true: ngày
+thời 
+y_true: thơ
+bộ 
+y_true: bé
+Thành 
+y_true: Thành
+công 
+y_true: công
+cây 
+y_true: ấy
+lời 
+y_true: liệu
+đó 
+y_true: có
+máy 
+y_true: mấy
+nghiên 
+y_true: người
+đạt 
+y_true: đạt
+được 
+y_true: được
+sau
+y_true: Sau
+một 
+y_true: mỗi
+như 
+y_true: mùa
+thu 
+y_true: thi
+đã 
+y_true: đại
+lời 
+y_true: học
+có 
+y_true: có
+bảo 
+y_true: bao
+số 
+y_true: sĩ
+thứ 
+y_true: tử
+bưởi 
+y_true: buồn
+ráu 
+y_true: rầu
+Lời 
+y_true: khi
+bắt 
+y_true: biết
+mình 
+y_true: mình
+tới 
+y_true: trở
+thành 
+y_true: thành
+từ 
+y_true: tử
+thời 
+y_true: Hai
+bảy 
+y_true: bảy
+đường 
+y_true: điểm
+lưu 
+y_true: cao
+thất 
+y_true: thật
+đây 
+y_true: đấy
+Những 
+y_true: Nhưng
+cả đ
+y_true: cao
+mã 
+y_true: mà
+làm 
+y_true: làm
+đi 
+y_true: gì
+khu 
+y_true: khi
+nử 
+y_true: NV1
+lấy 
+y_true: lấy
+thể 
+y_true: tới
+hài 
+y_true: hai
+bay 
+y_true: bảy
+nhất 
+y_true: phẩy
+năm 
+y_true: năm
+thỏ
+y_true: Đó
+thật 
+y_true: thật
+đi 
+y_true: ra
+không 
+y_true: không
+phải 
+y_true: phải
+là 
+y_true: là
+thất 
+y_true: thất
+bài 
+y_true: bại
+chủ 
+y_true: chỉ
+là 
+y_true: là
+khu 
+y_true: khi
+thành 
+y_true: thành
+công 
+y_true: công
+bị 
+y_true: bị
+từ 
+y_true: trì
+hành 
+y_true: hoãn
+mà 
+y_true: mà
+thứ
+y_true: thôi
+Cluê 
+y_true: Cuộc
+sông 
+y_true: sống
+vài 
+y_true: vẫn
+quyết 
+y_true: chào
+đến 
+y_true: đón
+bộ 
+y_true: họ
+trở 
+y_true: với
+nử 
+y_true: NV2
+Nữ 
+y_true: NV3
+Quan
+y_true: Quan
+thông 
+y_true: trọng
+hệ 
+y_true: là
+lên 
+y_true: họ
+đã 
+y_true: đã
+mỗi 
+y_true: nỗ
+lực 
+y_true: lực
+nhất 
+y_true: hết
+sức 
+y_true: sức
+đó 
+y_true: để
+khẳng 
+y_true: khẳng
+định 
+y_true: định
+mình 
+y_true: mình
+thể 
+y_true: Đó
+bị 
+y_true: là
+đi 
+y_true: ý
+nghĩa 
+y_true: nghĩa
+vậy 
+y_true: vẹn
+nguyên 
+y_true: nguyên
+của 
+y_true: của
+các 
+y_true: các
+kỳ 
+y_true: kỳ
+thu.
+y_true: thi
+và 
+y_true: và
+cùng 
+y_true: cũng
+đi 
+y_true: là
+bách 
+y_true: bản
+chất 
+y_true: chất
+của 
+y_true: của
+thành 
+y_true: thành
+công 
+y_true: công
+Chương 
+y_true: Chương
+thành 
+y_true: trình
+nhành 
+y_true: hành
+động 
+y_true: động
+thực
+y_true: thực
+mệnh 
+y_true: hiện
+nghị 
+y_true: Nghị
+guýết 
+y_true: quyết
+tháng 
+y_true: trung
+tổng 
+y_true: ương
+3 
+y_true: 9
+khóa 
+y_true: khóa
+1 
+y_true: IX
+của 
+y_true: của
+định 
+y_true: Đảng
+bị 
+y_true: bộ
+TF 
+y_true: TP
+4 cây
+y_true: HCM
+và 
+y_true: Về
+xây 
+y_true: xây
+dùng 
+y_true: dựng
+đăng 
+y_true: Đảng
+thể 
+y_true: tiếp
+tức 
+y_true: tục
+chủ 
+y_true: chỉ
+đã 
+y_true: đạo
+mạnh 
+y_true: mạnh
+mở 
+y_true: mẽ
+có 
+y_true: có
+học 
+y_true: hiệu
+gia 
+y_true: quả
+các 
+y_true: cuộc
+vậy 
+y_true: vận
+được 
+y_true: động
+trị 
+y_true: xây
+định 
+y_true: dựng
+chính 
+y_true: chỉnh
+đã 
+y_true: đốn
+Bảng 
+y_true: Đảng
+theo 
+y_true: theo
+thành 
+y_true: tinh
+thành 
+y_true: thần
+mạnh 
+y_true: nghị
+quyết 
+y_true: quyết
+trường 
+y_true: trung
+vòng 
+y_true: ương
+đ
+y_true: 6
+lại 
+y_true: lần
+5 
+y_true: 2
+thế 
+y_true: Theo
+đó 
+y_true: đó
+trả 
+y_true: tiếp
+Tina 
+y_true: tục
+thực 
+y_true: thực
+mệnh 
+y_true: hiện
+mặc 
+y_true: việc
+lê 
+y_true: kê
+khai 
+y_true: khai
+nhà 
+y_true: nhà
+đặt 
+y_true: đất
+ya 
+y_true: và
+có 
+y_true: cơ
+nó 
+y_true: sở
+sau 
+y_true: sản
+nhất 
+y_true: xuất
+lành 
+y_true: kinh
+doanh 
+y_true: doanh
+của 
+y_true: của
+cây 
+y_true: cán
+bộ 
+y_true: bộ
+công 
+y_true: công
+nhắc 
+y_true: chức
+thông 
+y_true: tăng
+cấp 
+y_true: cường
+thanh 
+y_true: thanh
+Giếng 
+y_true: kiểm
+thứa 
+y_true: tra
+những 
+y_true: những
+nộp 
+y_true: nơi
+có 
+y_true: có
+đầu 
+y_true: dấu
+hết 
+y_true: hiệu
+Vì 
+y_true: vi
+phạm 
+y_true: phạm
+đặc
+y_true: đặc
+bid 
+y_true: biệt
+thay 
+y_true: trong
+hã
+y_true: lĩnh
+WC
+y_true: vực
+đạt 
+y_true: đất
+đại 
+y_true: đai
+Vợ 
+y_true: và
+các 
+y_true: các
+công 
+y_true: công
+thành 
+y_true: trình
+thông 
+y_true: trọng
+điện 
+y_true: điểm
+Xứ 
+y_true: Xử
+ky 
+y_true: lý
+nghiệm 
+y_true: nghiêm
+mình 
+y_true: minh
+theo 
+y_true: theo
+pháp 
+y_true: pháp
+hàng 
+y_true: luật
+và 
+y_true: và
+khi 
+y_true: kỷ
+khả 
+y_true: luật
+của 
+y_true: của
+Đảng 
+y_true: Đảng
+những 
+y_true: những
+người 
+y_true: người
+có 
+y_true: có
+hãng 
+y_true: hành
+với 
+y_true: vi
+sau 
+y_true: sai
+trái 
+y_true: trái
+và 
+y_true: và
+những 
+y_true: những
+người 
+y_true: người
+báo 
+y_true: bao
+chế 
+y_true: che
+Thúc.
+y_true: Thực
+khém 
+y_true: hiện
+đốt 
+y_true: tốt
+các 
+y_true: các
+Giữ 
+y_true: quy
+định 
+y_true: định
+đối 
+y_true: đối
+với 
+y_true: với
+cán 
+y_true: cán
+bộ 
+y_true: bộ
+bảng
+y_true: lãnh
+độc
+y_true: đạo
+quán 
+y_true: quản
+bây 
+y_true: lý
+để 
+y_true: để
+xây 
+y_true: xảy
+Tại 
+y_true: ra
+thành 
+y_true: tham
+những 
+y_true: nhũng
+têu 
+y_true: tiêu
+các 
+y_true: cực
+để 
+y_true: ở
+có 
+y_true: cơ
+gìuân
+y_true: quan
+đón 
+y_true: đơn
+đi 
+y_true: vị
+đến 
+y_true: Kiện
+thành 
+y_true: toàn
+là 
+y_true: và
+trang 
+y_true: tăng
+cường 
+y_true: cường
+sức 
+y_true: sức
+chỉnh 
+y_true: chiến
+đầu 
+y_true: đấu
+của 
+y_true: của
+tố 
+y_true: tổ
+chức 
+y_true: chức
+có 
+y_true: cơ
+Số 
+y_true: sở
+đăng 
+y_true: Đảng
+Tích 
+y_true: Tiếp
+tục 
+y_true: tục
+đại 
+y_true: đổi
+mới 
+y_true: mới
+và 
+y_true: và
+này 
+y_true: nâng
+Cao 
+y_true: cao
+công 
+y_true: công
+tốc 
+y_true: tác
+cấm 
+y_true: cán
+bộ 
+y_true: bộ
+Tiếp 
+y_true: Tiếp
+tác 
+y_true: tục
+đối 
+y_true: đổi
+mới 
+y_true: mới
+phương 
+y_true: phương
+thực 
+y_true: thức
+không 
+y_true: lãnh
+độ 
+y_true: đạo
+của 
+y_true: của
+cây 
+y_true: cấp
+cây 
+y_true: ủy
+Bảng 
+y_true: Đảng
+6học
+y_true: theo
+phường 
+y_true: phương
+chăm 
+y_true: châm
+những 
+y_true: hướng
+mang
+y_true: mạnh
+về 
+y_true: về
+có 
+y_true: cơ
+số 
+y_true: sở
+và 
+y_true: Về
+của 
+y_true: cải
+cách 
+y_true: cách
+hàng 
+y_true: hành
+chính 
+y_true: chính
+tạp 
+y_true: Tập
+trong 
+y_true: trung
+chăm 
+y_true: chấn
+chính 
+y_true: chỉnh
+mình 
+y_true: mạnh
+nhóm 
+y_true: hơn
+nửa 
+y_true: nữa
+kỳ 
+y_true: kỷ
+cùng 
+y_true: cương
+bay 
+y_true: kỷ
+hợi 
+y_true: luật
+thông 
+y_true: trong
+bộ 
+y_true: bộ
+máy 
+y_true: máy
+hướng 
+y_true: hành
+chính 
+y_true: chính
+này 
+y_true: nâng
+có 
+y_true: cao
+tính 
+y_true: tinh
+thành 
+y_true: thần
+trách 
+y_true: trách
+nhằm 
+y_true: nhiệm
+và 
+y_true: và
+9 
+y_true: ý
+thực 
+y_true: thức
+tây 
+y_true: kỷ
+một 
+y_true: luật
+của 
+y_true: của
+Cả 
+y_true: CB
+C
+y_true: CC
+nhất 
+y_true: nhất
+là 
+y_true: là
+trên 
+y_true: trên
+bình 
+y_true: lĩnh
+vụ lực 
+y_true: vực
+như 
+y_true: nhà
+đã 
+y_true: đất
+cầu 
+y_true: đầu
+Từ 
+y_true: tư
+chỉnh 
+y_true: kinh
+đoàn 
+y_true: doanh
+trả 
+y_true: trật
+thị 
+y_true: tự
+xây 
+y_true: xây
+chứng 
+y_true: dựng
+do 
+y_true: và
+giả 
+y_true: giải
+quyết 
+y_true: quyết
+chịu 
+y_true: khiếu
+nói 
+y_true: nại
+Hồ 
+y_true: tố
+của 
+y_true: cáo
+Xây 
+y_true: Xây
+định 
+y_true: dựng
+nhóm 
+y_true: hoàn
+thìên 
+y_true: thiện
+học 
+y_true: hệ
+thông 
+y_true: thống
+các 
+y_true: các
+cấp 
+y_true: qui
+trình 
+y_true: trình
+thu 
+y_true: thủ
+được 
+y_true: tục
+hành 
+y_true: hành
+chính 
+y_true: chính
+kếch 
+y_true: Kiên
+quyên 
+y_true: quyết
+điểm 
+y_true: chấn
+chính 
+y_true: chỉnh
+bộ 
+y_true: bộ
+mấy 
+y_true: máy
+hình 
+y_true: hành
+chính 
+y_true: chính
+các 
+y_true: các
+nhân s
+y_true: nhanh
+chông 
+y_true: chóng
+thức 
+y_true: khắc
+phục 
+y_true: phục
+trình 
+y_true: tình
+trang 
+y_true: trạng
+giành 
+y_true: quan
+điều
+y_true: liêu
+của 
+y_true: cửa
+guyen 
+y_true: quyền
+nhất 
+y_true: hách
+dành 
+y_true: dịch
+Xây 
+y_true: Xây
+chứng 
+y_true: dựng
+và 
+y_true: và
+phải 
+y_true: phát
+thirên 
+y_true: triển
+đội 
+y_true: đội
+ngủ 
+y_true: ngũ
+Cả 
+y_true: CB
+C
+y_true: CC
+có 
+y_true: có
+chưa 
+y_true: chất
+đường 
+y_true: lượng
+chuyên 
+y_true: chuyên
+môn 
+y_true: môn
+các 
+y_true: cao
+có 
+y_true: có
+phẩm 
+y_true: phẩm
+chất 
+y_true: chất
+đạo 
+y_true: đạo
+được 
+y_true: đức
+kiểm 
+y_true: Kiểm
+thơ 
+y_true: tra
+xu 
+y_true: xử
+phụ
+y_true: lý
+khen 
+y_true: kiên
+quyết 
+y_true: quyết
+các 
+y_true: các
+vụ 
+y_true: vụ
+thành 
+y_true: tham
+những 
+y_true: nhũng
+lấy 
+y_true: lãng
+làm 
+y_true: làm
+thái 
+y_true: thất
+thoại 
+y_true: thoát
+trải 
+y_true: tài
+Sản 
+y_true: sản
+như 
+y_true: nhà
+nước 
+y_true: nước
+với 
+y_true: Về
+kính 
+y_true: kinh
+trẻ 
+y_true: tế
+thể 
+y_true: Tập
+trong 
+y_true: trung
+mới 
+y_true: mọi
+nó 
+y_true: nỗ
+làc 
+y_true: lực
+nhân 
+y_true: nhằm
+thảo 
+y_true: tháo
+gởi 
+y_true: gỡ
+sản 
+y_true: sản
+Xuất
+y_true: xuất
+lành 
+y_true: kinh
+đoàn 
+y_true: doanh
+đầu 
+y_true: đưa
+tốc 
+y_true: tốc
+độ 
+y_true: độ
+tăng 
+y_true: tăng
+trường 
+y_true: trưởng
+GPP
+y_true: GDP
+thứ
+y_true: trên
+địa 
+y_true: địa
+bán 
+y_true: bàn
+TĐ
+y_true: TP
+đạt 
+y_true: đạt
+là 
+y_true: 12
+năm 
+y_true: năm
+20904
+y_true: 2004
+và 
+y_true: và
+trên 
+y_true: trên
+4 
+y_true: 12
+năm 
+y_true: năm
+đường 
+y_true: 2005
+Phải
+y_true: Phát
+thêm 
+y_true: triển
+những 
+y_true: nhanh
+các 
+y_true: các
+ngành 
+y_true: ngành
+đách 
+y_true: dịch
+vụ 
+y_true: vụ
+tại 
+y_true: tái
+cầu 
+y_true: cấu
+thực 
+y_true: trúc
+các 
+y_true: các
+ngang 
+y_true: ngành
+công 
+y_true: công
+nhiếp 
+y_true: nghiệp
+Tiền 
+y_true: Tiếp
+thực 
+y_true: tục
+nhân 
+y_true: nhân
+trong 
+y_true: rộng
+các 
+y_true: các
+mô 
+y_true: mô
+hình 
+y_true: hình
+thay 
+y_true: huy
+đóng 
+y_true: động
+vốn 
+y_true: vốn
+đầu 
+y_true: đầu
+thị
+y_true: tư
+Tập 
+y_true: Tập
+trước 
+y_true: trung
+khai 
+y_true: khai
+thực 
+y_true: thác
+các 
+y_true: các
+người 
+y_true: nguồn
+vốn 
+y_true: vốn
+cho 
+y_true: cho
+ngàn 
+y_true: ngân
+Sách 
+y_true: sách
+Tổng 
+y_true: Tổng
+kết 
+y_true: kết
+giữa 
+y_true: quá
+thứ 
+y_true: trình
+để 
+y_true: cổ
+phần 
+y_true: phần
+hóa 
+y_true: hóa
+doanh 
+y_true: doanh
+nghịp 
+y_true: nghiệp
+nhà 
+y_true: nhà
+nước 
+y_true: nước
+và 
+y_true: và
+vẫn 
+y_true: việc
+tố 
+y_true: tổ
+chúc 
+y_true: chức
+sắp 
+y_true: sắp
+xếp 
+y_true: xếp
+lợi 
+y_true: lại
+doanh 
+y_true: doanh
+nhiên 
+y_true: nghiệp
+nhà 
+y_true: nhà
+nước 
+y_true: nước
+Trường 
+y_true: Triển
+khu 
+y_true: khai
+quyết 
+y_true: quyết
+định 
+y_true: định
+của 
+y_true: của
+Tp
+y_true: TP
+về 
+y_true: về
+một 
+y_true: một
+số 
+y_true: số
+chính 
+y_true: chính
+sách 
+y_true: sách
+và 
+y_true: ưu
+đã.
+y_true: đãi
+đi 
+y_true: đối
+và.
+y_true: với
+các 
+y_true: các
+cứu 
+y_true: dự
+án 
+y_true: án
+Có 
+y_true: có
+vốn 
+y_true: vốn
+câu 
+y_true: đầu
+Tài 
+y_true: tư
+nước 
+y_true: nước
+người 
+y_true: ngoài
+Bá 
+y_true: Rà
+sau 
+y_true: soát
+làu 
+y_true: lại
+các 
+y_true: các
+chúng 
+y_true: chương
+trình 
+y_true: trình
+mới 
+y_true: hội
+nhập 
+y_true: nhập
+tính 
+y_true: kinh
+tế 
+y_true: tế
+của 
+y_true: của
+TỰ 
+y_true: TP
+về 
+y_true: Về
+văn 
+y_true: văn
+nhóa 
+y_true: hóa
+xã
+y_true: xã
+thời 
+y_true: hội
+đây 
+y_true: đẩy
+này 
+y_true: mạnh
+Xã 
+y_true: xã
+nhờ 
+y_true: hội
+nhờ 
+y_true: hóa
+phải 
+y_true: phát
+trình 
+y_true: triển
+xã 
+y_true: xã
+mới 
+y_true: hội
+móc.
+y_true: học
+tạp 
+y_true: tập
+làm 
+y_true: ưu
+- tiêu 
+y_true: tiên
+đầu 
+y_true: đầu
+Tư 
+y_true: tư
+năm 
+y_true: ngân
+Sách 
+y_true: sách
+cần 
+y_true: cho
+Giao 
+y_true: giáo
+dục 
+y_true: dục
+đảo 
+y_true: đào
+tạo 
+y_true: tạo
+Nâng 
+y_true: Nâng
+cảo 
+y_true: cao
+nâng 
+y_true: năng
+lực 
+y_true: lực
+giành 
+y_true: quản
+này 
+y_true: lý
+nhận 
+y_true: nhà
+nước 
+y_true: nước
+tên 
+y_true: trên
+các 
+y_true: các
+hình 
+y_true: lĩnh
+cực 
+y_true: vực
+chứa 
+y_true: kinh
+dành 
+y_true: doanh
+cách 
+y_true: dịch
+và 
+y_true: vụ
+văn 
+y_true: văn
+nhọc 
+y_true: hóa
+khác 
+y_true: khắc
+phúc.
+y_true: phục
+những 
+y_true: những
+Số 
+y_true: sơ
+thỏ
+y_true: hở
+Hội 
+y_true: tiêu
+cực 
+y_true: cực
+trong 
+y_true: trong
+Giành 
+y_true: quản
+ấy 
+y_true: lý
+và 
+y_true: và
+Nhờ 
+y_true: hoạt
+đồng 
+y_true: động
+văn 
+y_true: văn
+thoá 
+y_true: hóa
+Tiếp 
+y_true: Tiếp
+thực 
+y_true: tục
+tạo 
+y_true: tập
+trước 
+y_true: trung
+những 
+y_true: nguồn
+thực 
+y_true: lực
+cho
+y_true: cho
+chứng 
+y_true: chương
+thứ 
+y_true: trình
+3 
+y_true: 3
+giám 
+y_true: giảm

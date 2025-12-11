@@ -1,0 +1,126 @@
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Viết tiếp về mùa anh Trương Xuân Đại. Ngày tư khi tổ báo cáo sở phản ứng 
+y_true: Viết tiếp về vụ anh Trương Xuân Đại. Ngay từ khi tờ báo có bài " Số phận của
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+những người mới lên sự thật "phát hành, nhân lập đọc dài bấy bộ sự chia sẻ,
+y_true: những người nói lên sự thật " phát hành, nhiều bạn đọc đã bày tỏ sự chia sẻ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ng họ anh Trường Xuân Đại. Mặt bàn đác 6 tầng và 3.11m2 gửi tới Trường Anh Trường 
+y_true: ủng hộ anh Trương Xuân Đại. Một bạn đọc 67 tuổi ở Q.11 đến gửi tặng anh Trương
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+xuân Đủ 150.000 đồng, mà có gì trên Nhưng ở Tân Bình gửi tổng 100.000,
+y_true: Xuân Đại 150.000 đồng, một cô gái tên Nhung ở Tân Bình gửi tặng 100.000 đ,
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+một thành niên tại Hai Điện quận 200.000. Sándơ mua là Ngày 
+y_true: một thanh niên tên Hà đến gửi 200.000 đ. Sau đó nữa là rất
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+nhiên làm đặc điểm bảy Bộ chính sách, công bố.
+y_true: nhiều bạn đọc gọi đến bày tỏ sự chia sẻ, ủng hộ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Bạn liên lạp báo 'tuan' từ cùng quyên Trinh qua từ nhóm công nhân.
+y_true: Ban biên tập báo Tuổi Trẻ cũng quyết định gửi tặng nhóm công nhân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để tôi có thân cúc ở đây làm công A5 10 năm đây. Đây, để người dân
+y_true: đã tố cáo tiêu cực ở đường liên cảng A5 10 triệu đồng. Đừng để người dân
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+để cuộc cho mình tình! Câu của bố chỉ, bạn không bị dứt lúc về với tôi có những 
+y_true: đặt cược cho niềm tin! Qua báo chí, bản thân tôi đã được biết về việc tố cáo những
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+bài phạm của công trình đường lên cảng A5 mạng lưới đuôi cây, nhưng ngày
+y_true: sai phạm của công rình đường liên cảng A5 mấy năm trước đây, nhưng nay
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+màu biệt "uốc" bốn đứng ở và bất tiếp dần mang cốt báo bị lộng phận phác
+y_true: mới biết việc làm dũng cảm và tốt đẹp đó đã mang đến bao hệ lụy phiền phức
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+họ người hãy mài mình người mẹ "đó bố vợ cùng xây dựng"
+y_true: cho những người trong cuộc, những người mà theo tôi vô cùng xứng đáng với danh
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([3, 100, 1280])
+=====================
+hình ảnh 
+y_true: hiệu hiệp sĩ.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+The chính mình hiện là gì vì sao? Người đó bày thăng lệ phải bày, họ đều
+y_true: Thế nhưng những hiệp sĩ ấy giờ ra sao? Người thì lang thang, phiêu bạt, kẻ thì
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+và hò? hết thì cây ấn tình con chàng, đó như tất luôn vẻ chưa, phải là tất công.
+y_true: vợ bỏ, kẻ thì cày ải trên những con đường đô thị để lượm ve chai, phải tá túc trong
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+những cơ hội đòi hỏi bị ngừng ngày. Người có mùa hè nhưng, như 1 dòng lệ phải chạy.
+y_true: những căn chòi tạm bợ sống qua ngày. Ngẫm sao mà thương thế! Đáng lẽ phải được
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+tổ như thời là những sự người cũng là bị dày xương dày cũng cầm cố,
+y_true: tôn vinh thì trái lại những con người ấy đã bị đẩy xuống đáy cùng của cuộc
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+ông! cùng mấy mình đã đã những hơn, đã chất là mình cũng ủn
+y_true: sống! Cũng may mà anh Đại đã thắng kiện, đó chắc là một niềm an ủi và
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+là những định đề "mình và chúng nguyện, người chưa tin công nơi"
+y_true: là một khẳng định để anh và các đồng nghiệp, người thân tin rằng các
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+anh hữu dân. Tất huy vực là điều gì mình tìm từ là phải mà mình.
+y_true: anh không đơn độc trong việc theo đuổi niềm tin về lẽ phải của mình.
+=====================
+BASE:  torch.Size([1, 256, 1280])
+PATCHES:  torch.Size([9, 100, 1280])
+=====================
+Lưu mùa, khi thành tác dẫn xác định sự phạm mỹ không xử lý mà đi ngừng
+y_true: Lại nữa, khi thanh tra đã xác định sai phạm sao không xử lý mà để " ngâm "
