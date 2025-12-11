@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on fine-tuning a DeepSeek optical character recognition (OCR) model on Vietnamese text data and evaluating its performance. The work involves preprocessing raw OCR output, fine-tuning models with different dataset sizes, and comparing performance metrics across multiple model variants.
 
-You could file my code here: [Notebook - Kaggle](https://www.kaggle.com/code/khngxuninh/deepseek-ocr-finetuning?scriptVersionId=285152875)
+You could find my code here: [Notebook - Kaggle](https://www.kaggle.com/code/khngxuninh/deepseek-ocr-finetuning?scriptVersionId=285152875)
 
 ## Project Structure
 
@@ -19,10 +19,10 @@ Lab02 NLP/
 │   └── finetuned_output_log_21.txt    # Additional fine-tuned model output
 ├── cleaned_output/                     # Cleaned and processed prediction data
 │   ├── base_model_prediction_100k.csv # Base model predictions (100k)
-│   ├── base_model_prediction_80k_21.csv # Base model predictions (80k)
+│   ├── base_model_prediction_80k_21.csv # Base model predictions (80k) (21 first s)
 │   ├── final_model_prediction_100k.csv # Fine-tuned model predictions (100k)
 │   ├── final_model_prediction_80k.csv # Fine-tuned model predictions (80k)
-│   └── finetuned_model_prediction_80k_21.csv # Additional codes for processing
+│   └── finetuned_model_prediction_80k_21.csv # 80k model prediction (21 first samples)
 ├── preprocess_output/                  # Preprocessing notebooks and logs
 │   ├── clean_output.ipynb             # Main preprocessing script
 │   └── clean_final_output_log.ipynb   # Final preprocessing log
